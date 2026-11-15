@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: BR
 # 巴西（Brazil）
-# 数据日期: 2026-11-12
+# 数据日期: 2026-11-15
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 15665 条（IPv4: 6565 / IPv6: 9100）
+# 规则统计: 共 15668 条（IPv4: 6568 / IPv6: 9100）
 # ============================================================
 payload:
   - IP-CIDR,102.129.192.0/24,no-resolve
@@ -2732,7 +2732,10 @@ payload:
   - IP-CIDR,186.198.0.0/18,no-resolve
   - IP-CIDR,186.198.104.0/21,no-resolve
   - IP-CIDR,186.198.112.0/20,no-resolve
-  - IP-CIDR,186.198.128.0/17,no-resolve
+  - IP-CIDR,186.198.128.0/20,no-resolve
+  - IP-CIDR,186.198.144.0/20,no-resolve
+  - IP-CIDR,186.198.160.0/19,no-resolve
+  - IP-CIDR,186.198.192.0/18,no-resolve
   - IP-CIDR,186.198.64.0/19,no-resolve
   - IP-CIDR,186.198.96.0/21,no-resolve
   - IP-CIDR,186.199.0.0/16,no-resolve

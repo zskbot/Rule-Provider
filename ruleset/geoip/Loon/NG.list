@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: NG
 # 尼日利亚（Nigeria）
-# 数据日期: 2026-11-12
+# 数据日期: 2026-11-15
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 561 条（IPv4: 418 / IPv6: 143）
+# 规则统计: 共 556 条（IPv4: 414 / IPv6: 142）
 # ============================================================
 IP-CIDR,102.128.192.0/18,no-resolve
 IP-CIDR,102.130.0.0/21,no-resolve
@@ -185,7 +185,6 @@ IP-CIDR,102.222.72.0/24,no-resolve
 IP-CIDR,102.222.96.0/22,no-resolve
 IP-CIDR,102.223.1.0/24,no-resolve
 IP-CIDR,102.223.101.0/24,no-resolve
-IP-CIDR,102.223.180.0/23,no-resolve
 IP-CIDR,102.223.255.0/24,no-resolve
 IP-CIDR,102.223.36.0/22,no-resolve
 IP-CIDR,102.223.52.0/22,no-resolve
@@ -298,7 +297,6 @@ IP-CIDR,196.40.160.0/20,no-resolve
 IP-CIDR,196.40.192.0/18,no-resolve
 IP-CIDR,196.41.80.0/24,no-resolve
 IP-CIDR,196.41.84.0/24,no-resolve
-IP-CIDR,196.41.94.0/24,no-resolve
 IP-CIDR,196.43.215.0/24,no-resolve
 IP-CIDR,196.43.232.0/24,no-resolve
 IP-CIDR,196.43.235.0/24,no-resolve
@@ -405,8 +403,6 @@ IP-CIDR,41.78.252.0/22,no-resolve
 IP-CIDR,41.78.8.0/22,no-resolve
 IP-CIDR,41.78.80.0/22,no-resolve
 IP-CIDR,41.78.88.0/22,no-resolve
-IP-CIDR,41.79.116.0/22,no-resolve
-IP-CIDR,41.79.152.0/22,no-resolve
 IP-CIDR,41.79.204.0/22,no-resolve
 IP-CIDR,41.79.4.0/22,no-resolve
 IP-CIDR,41.79.64.0/22,no-resolve
@@ -482,7 +478,6 @@ IP-CIDR6,2c0f:3b80::/32,no-resolve
 IP-CIDR6,2c0f:3d80::/32,no-resolve
 IP-CIDR6,2c0f:3e80::/32,no-resolve
 IP-CIDR6,2c0f:4180::/32,no-resolve
-IP-CIDR6,2c0f:4380::/32,no-resolve
 IP-CIDR6,2c0f:45c0::/32,no-resolve
 IP-CIDR6,2c0f:4720::/32,no-resolve
 IP-CIDR6,2c0f:4800::/32,no-resolve

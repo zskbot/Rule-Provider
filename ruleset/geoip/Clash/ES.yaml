@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: ES
 # 西班牙（Spain）
-# 数据日期: 2026-11-12
+# 数据日期: 2026-11-15
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5194 条（IPv4: 4027 / IPv6: 1167）
+# 规则统计: 共 5192 条（IPv4: 4027 / IPv6: 1165）
 # ============================================================
 payload:
   - IP-CIDR,102.177.129.0/24,no-resolve
@@ -4470,7 +4470,6 @@ payload:
   - IP-CIDR6,2a02:69a0::/32,no-resolve
   - IP-CIDR6,2a02:6b40::/32,no-resolve
   - IP-CIDR6,2a02:7160::/32,no-resolve
-  - IP-CIDR6,2a02:7480::/32,no-resolve
   - IP-CIDR6,2a02:75a0::/32,no-resolve
   - IP-CIDR6,2a02:7b0::/32,no-resolve
   - IP-CIDR6,2a02:7c60::/32,no-resolve
@@ -4647,7 +4646,6 @@ payload:
   - IP-CIDR6,2a06:2180::/29,no-resolve
   - IP-CIDR6,2a06:37c0::/29,no-resolve
   - IP-CIDR6,2a06:3c00::/29,no-resolve
-  - IP-CIDR6,2a06:3f80::/29,no-resolve
   - IP-CIDR6,2a06:44c0::/29,no-resolve
   - IP-CIDR6,2a06:5340::/29,no-resolve
   - IP-CIDR6,2a06:58c0::/29,no-resolve

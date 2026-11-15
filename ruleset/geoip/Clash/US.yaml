@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: US
 # 美国（United States）
-# 数据日期: 2026-11-12
+# 数据日期: 2026-11-15
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 68705 条（IPv4: 51268 / IPv6: 17437）
+# 规则统计: 共 68711 条（IPv4: 51273 / IPv6: 17438）
 # ============================================================
 payload:
   - IP-CIDR,1.0.0.0/24,no-resolve
@@ -6333,7 +6333,9 @@ payload:
   - IP-CIDR,147.136.92.0/22,no-resolve
   - IP-CIDR,147.136.96.0/19,no-resolve
   - IP-CIDR,147.137.0.0/16,no-resolve
-  - IP-CIDR,147.138.0.0/15,no-resolve
+  - IP-CIDR,147.138.0.0/17,no-resolve
+  - IP-CIDR,147.138.128.0/18,no-resolve
+  - IP-CIDR,147.139.0.0/16,no-resolve
   - IP-CIDR,147.140.0.0/15,no-resolve
   - IP-CIDR,147.144.0.0/15,no-resolve
   - IP-CIDR,147.146.0.0/16,no-resolve
@@ -20115,6 +20117,7 @@ payload:
   - IP-CIDR,192.5.51.0/24,no-resolve
   - IP-CIDR,192.5.52.0/22,no-resolve
   - IP-CIDR,192.5.56.0/23,no-resolve
+  - IP-CIDR,192.5.58.0/24,no-resolve
   - IP-CIDR,192.5.64.0/20,no-resolve
   - IP-CIDR,192.5.8.0/21,no-resolve
   - IP-CIDR,192.5.80.0/21,no-resolve
@@ -23838,6 +23841,7 @@ payload:
   - IP-CIDR,198.134.168.0/24,no-resolve
   - IP-CIDR,198.134.170.0/24,no-resolve
   - IP-CIDR,198.134.174.0/23,no-resolve
+  - IP-CIDR,198.134.177.0/24,no-resolve
   - IP-CIDR,198.134.180.0/24,no-resolve
   - IP-CIDR,198.134.182.0/23,no-resolve
   - IP-CIDR,198.134.185.0/24,no-resolve
@@ -23856,8 +23860,7 @@ payload:
   - IP-CIDR,198.134.216.0/24,no-resolve
   - IP-CIDR,198.134.220.0/23,no-resolve
   - IP-CIDR,198.134.222.0/24,no-resolve
-  - IP-CIDR,198.134.224.0/24,no-resolve
-  - IP-CIDR,198.134.226.0/23,no-resolve
+  - IP-CIDR,198.134.224.0/22,no-resolve
   - IP-CIDR,198.134.228.0/23,no-resolve
   - IP-CIDR,198.134.232.0/21,no-resolve
   - IP-CIDR,198.134.24.0/22,no-resolve
@@ -24693,9 +24696,7 @@ payload:
   - IP-CIDR,198.186.144.0/24,no-resolve
   - IP-CIDR,198.186.146.0/24,no-resolve
   - IP-CIDR,198.186.148.0/22,no-resolve
-  - IP-CIDR,198.186.152.0/23,no-resolve
-  - IP-CIDR,198.186.154.0/24,no-resolve
-  - IP-CIDR,198.186.156.0/22,no-resolve
+  - IP-CIDR,198.186.152.0/21,no-resolve
   - IP-CIDR,198.186.160.0/20,no-resolve
   - IP-CIDR,198.186.176.0/20,no-resolve
   - IP-CIDR,198.186.192.0/21,no-resolve
@@ -27874,7 +27875,9 @@ payload:
   - IP-CIDR,199.88.206.0/24,no-resolve
   - IP-CIDR,199.88.216.0/21,no-resolve
   - IP-CIDR,199.88.224.0/20,no-resolve
-  - IP-CIDR,199.88.240.0/21,no-resolve
+  - IP-CIDR,199.88.240.0/22,no-resolve
+  - IP-CIDR,199.88.245.0/24,no-resolve
+  - IP-CIDR,199.88.246.0/23,no-resolve
   - IP-CIDR,199.88.248.0/21,no-resolve
   - IP-CIDR,199.89.0.0/17,no-resolve
   - IP-CIDR,199.89.128.0/21,no-resolve
@@ -32487,7 +32490,10 @@ payload:
   - IP-CIDR,208.132.0.0/14,no-resolve
   - IP-CIDR,208.136.0.0/15,no-resolve
   - IP-CIDR,208.138.0.0/20,no-resolve
-  - IP-CIDR,208.138.128.0/17,no-resolve
+  - IP-CIDR,208.138.128.0/19,no-resolve
+  - IP-CIDR,208.138.160.0/21,no-resolve
+  - IP-CIDR,208.138.176.0/20,no-resolve
+  - IP-CIDR,208.138.192.0/18,no-resolve
   - IP-CIDR,208.138.48.0/20,no-resolve
   - IP-CIDR,208.138.64.0/18,no-resolve
   - IP-CIDR,208.139.0.0/16,no-resolve
@@ -38122,9 +38128,7 @@ payload:
   - IP-CIDR,23.166.88.0/24,no-resolve
   - IP-CIDR,23.166.96.0/24,no-resolve
   - IP-CIDR,23.167.0.0/24,no-resolve
-  - IP-CIDR,23.167.100.0/24,no-resolve
   - IP-CIDR,23.167.104.0/24,no-resolve
-  - IP-CIDR,23.167.108.0/24,no-resolve
   - IP-CIDR,23.167.116.0/24,no-resolve
   - IP-CIDR,23.167.12.0/24,no-resolve
   - IP-CIDR,23.167.120.0/24,no-resolve
@@ -38149,6 +38153,7 @@ payload:
   - IP-CIDR,23.167.232.0/24,no-resolve
   - IP-CIDR,23.167.236.0/24,no-resolve
   - IP-CIDR,23.167.240.0/24,no-resolve
+  - IP-CIDR,23.167.244.0/24,no-resolve
   - IP-CIDR,23.167.248.0/24,no-resolve
   - IP-CIDR,23.167.32.0/24,no-resolve
   - IP-CIDR,23.167.36.0/24,no-resolve
@@ -38160,7 +38165,6 @@ payload:
   - IP-CIDR,23.167.60.0/24,no-resolve
   - IP-CIDR,23.167.68.0/24,no-resolve
   - IP-CIDR,23.167.72.0/24,no-resolve
-  - IP-CIDR,23.167.76.0/24,no-resolve
   - IP-CIDR,23.167.8.0/24,no-resolve
   - IP-CIDR,23.167.84.0/24,no-resolve
   - IP-CIDR,23.167.88.0/24,no-resolve
@@ -38182,6 +38186,7 @@ payload:
   - IP-CIDR,23.168.224.0/24,no-resolve
   - IP-CIDR,23.168.24.0/24,no-resolve
   - IP-CIDR,23.168.240.0/23,no-resolve
+  - IP-CIDR,23.168.36.0/24,no-resolve
   - IP-CIDR,23.168.48.0/23,no-resolve
   - IP-CIDR,23.168.64.0/24,no-resolve
   - IP-CIDR,23.168.72.0/24,no-resolve
@@ -46095,7 +46100,7 @@ payload:
   - IP-CIDR,74.120.16.0/21,no-resolve
   - IP-CIDR,74.120.160.0/21,no-resolve
   - IP-CIDR,74.120.176.0/20,no-resolve
-  - IP-CIDR,74.120.192.0/20,no-resolve
+  - IP-CIDR,74.120.200.0/21,no-resolve
   - IP-CIDR,74.120.208.0/21,no-resolve
   - IP-CIDR,74.120.216.0/22,no-resolve
   - IP-CIDR,74.120.224.0/21,no-resolve
@@ -53607,6 +53612,9 @@ payload:
   - IP-CIDR6,2602:81f:e000::/44,no-resolve
   - IP-CIDR6,2602:81f:f000::/44,no-resolve
   - IP-CIDR6,2602::/24,no-resolve
+  - IP-CIDR6,2602:f25c::/36,no-resolve
+  - IP-CIDR6,2602:f25e::/36,no-resolve
+  - IP-CIDR6,2602:f25f::/40,no-resolve
   - IP-CIDR6,2602:f261::/40,no-resolve
   - IP-CIDR6,2602:f262::/40,no-resolve
   - IP-CIDR6,2602:f263::/40,no-resolve
@@ -53629,14 +53637,11 @@ payload:
   - IP-CIDR6,2602:f274::/36,no-resolve
   - IP-CIDR6,2602:f276::/40,no-resolve
   - IP-CIDR6,2602:f277::/36,no-resolve
-  - IP-CIDR6,2602:f278::/40,no-resolve
   - IP-CIDR6,2602:f27a::/36,no-resolve
-  - IP-CIDR6,2602:f27b::/40,no-resolve
   - IP-CIDR6,2602:f27c::/40,no-resolve
   - IP-CIDR6,2602:f27d::/40,no-resolve
   - IP-CIDR6,2602:f27f::/40,no-resolve
   - IP-CIDR6,2602:f280::/36,no-resolve
-  - IP-CIDR6,2602:f281::/40,no-resolve
   - IP-CIDR6,2602:f282::/40,no-resolve
   - IP-CIDR6,2602:f283::/40,no-resolve
   - IP-CIDR6,2602:f284::/40,no-resolve
@@ -57150,6 +57155,7 @@ payload:
   - IP-CIDR6,2604:c640::/32,no-resolve
   - IP-CIDR6,2604:c680::/32,no-resolve
   - IP-CIDR6,2604:c6c0::/32,no-resolve
+  - IP-CIDR6,2604:c700::/32,no-resolve
   - IP-CIDR6,2604:c740::/32,no-resolve
   - IP-CIDR6,2604:c780::/32,no-resolve
   - IP-CIDR6,2604:c7c0::/32,no-resolve

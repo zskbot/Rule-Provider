@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: BG
 # 保加利亚（Bulgaria）
-# 数据日期: 2026-11-12
+# 数据日期: 2026-11-15
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 2085 条（IPv4: 1711 / IPv6: 374）
+# 规则统计: 共 2084 条（IPv4: 1711 / IPv6: 373）
 # ============================================================
 IP-CIDR,102.211.232.0/24,no-resolve
 IP-CIDR,102.216.83.0/24,no-resolve
@@ -1950,7 +1950,6 @@ IP-CIDR6,2a0a:29c0::/32,no-resolve
 IP-CIDR6,2a0a:3180::/29,no-resolve
 IP-CIDR6,2a0a:33c0::/29,no-resolve
 IP-CIDR6,2a0a:35c0::/29,no-resolve
-IP-CIDR6,2a0a:4200::/29,no-resolve
 IP-CIDR6,2a0a:6740::/29,no-resolve
 IP-CIDR6,2a0a:7c0::/29,no-resolve
 IP-CIDR6,2a0a:8c40::/29,no-resolve

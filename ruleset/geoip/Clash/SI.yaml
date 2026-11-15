@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: SI
 # 斯洛文尼亚（Slovenia）
-# 数据日期: 2026-11-12
+# 数据日期: 2026-11-15
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 740 条（IPv4: 577 / IPv6: 163）
 # ============================================================
@@ -56,7 +56,7 @@ payload:
   - IP-CIDR,185.145.52.0/24,no-resolve
   - IP-CIDR,185.146.252.0/22,no-resolve
   - IP-CIDR,185.148.72.0/22,no-resolve
-  - IP-CIDR,185.153.24.0/22,no-resolve
+  - IP-CIDR,185.153.24.0/23,no-resolve
   - IP-CIDR,185.173.52.0/22,no-resolve
   - IP-CIDR,185.175.0.0/22,no-resolve
   - IP-CIDR,185.178.224.0/22,no-resolve
