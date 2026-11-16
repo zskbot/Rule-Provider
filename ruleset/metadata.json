@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15",
+  "generated_at": "2026-11-16",
   "source": "APNIC + IPtoASN",
   "country_count": 242,
   "global_provider": {
@@ -144,9 +144,9 @@
     "BD": {
       "name_en": "Bangladesh",
       "name_zh": "孟加拉国",
-      "ipv4_cidrs": 2633,
+      "ipv4_cidrs": 2634,
       "ipv6_cidrs": 1690,
-      "total_cidrs": 4323
+      "total_cidrs": 4324
     },
     "BE": {
       "name_en": "Belgium",
@@ -718,9 +718,9 @@
     "IN": {
       "name_en": "India",
       "name_zh": "印度",
-      "ipv4_cidrs": 9000,
+      "ipv4_cidrs": 9001,
       "ipv6_cidrs": 3041,
-      "total_cidrs": 12041
+      "total_cidrs": 12042
     },
     "IO": {
       "name_en": "British Indian Ocean Territory",

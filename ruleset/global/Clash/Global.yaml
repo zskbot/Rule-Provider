@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-11-15
+# 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 177101 条（IPv4: 107659 / IPv6: 69442）
 # ============================================================
@@ -18973,7 +18973,7 @@ payload:
   - IP-CIDR,141.229.12.0/22,no-resolve
   - IP-CIDR,141.229.16.0/22,no-resolve
   - IP-CIDR,141.229.20.0/22,no-resolve
-  - IP-CIDR,141.229.24.0/23,no-resolve
+  - IP-CIDR,141.229.24.0/22,no-resolve
   - IP-CIDR,141.229.4.0/22,no-resolve
   - IP-CIDR,141.229.8.0/22,no-resolve
   - IP-CIDR,141.230.0.0/15,no-resolve
@@ -68357,7 +68357,7 @@ payload:
   - IP-CIDR,203.24.35.0/24,no-resolve
   - IP-CIDR,203.24.38.0/24,no-resolve
   - IP-CIDR,203.24.40.0/24,no-resolve
-  - IP-CIDR,203.24.43.0/24,no-resolve
+  - IP-CIDR,203.24.42.0/23,no-resolve
   - IP-CIDR,203.24.48.0/21,no-resolve
   - IP-CIDR,203.24.56.0/24,no-resolve
   - IP-CIDR,203.24.58.0/23,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: BD
 # 孟加拉国（Bangladesh）
-# 数据日期: 2026-11-15
+# 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4323 条（IPv4: 2633 / IPv6: 1690）
+# 规则统计: 共 4324 条（IPv4: 2634 / IPv6: 1690）
 # ============================================================
 IP-CIDR,101.1.16.0/23,no-resolve
 IP-CIDR,101.2.160.0/21,no-resolve
@@ -2204,6 +2204,7 @@ IP-CIDR,203.201.48.0/23,no-resolve
 IP-CIDR,203.202.240.0/20,no-resolve
 IP-CIDR,203.223.88.0/23,no-resolve
 IP-CIDR,203.223.92.0/22,no-resolve
+IP-CIDR,203.24.42.0/24,no-resolve
 IP-CIDR,203.25.161.0/24,no-resolve
 IP-CIDR,203.26.150.0/23,no-resolve
 IP-CIDR,203.26.240.0/23,no-resolve

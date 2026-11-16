@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-11-15
+# 数据日期: 2026-11-16
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10491 条（域名: 10473 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10502 条（域名: 10484 / 精确域名: 15 / 正则: 3）
 # ============================================================
 host-suffix, 00cdn.com
 host-suffix, 0123456789.com
@@ -1150,6 +1150,7 @@ host-suffix, arcteryx.com
 host-suffix, arcus.xyz
 host-suffix, arenascan.com
 host-suffix, arkm.com
+host-suffix, arknights.com
 host-suffix, arpun.com
 host-suffix, artlist.io
 host-suffix, artofproblemsolving.com
@@ -3940,6 +3941,8 @@ host-suffix, grok.com
 host-suffix, growingio.com
 host-suffix, grsai.ai
 host-suffix, grsai.com
+host-suffix, gryphline.com
+host-suffix, gryphline.net
 host-suffix, grzq.com
 host-suffix, gsadds.com
 host-suffix, gseen.com
@@ -4179,9 +4182,11 @@ host-suffix, hezuvip.com
 host-suffix, hf-aw.com
 host-suffix, hftfund.com
 host-suffix, hfx.net
+host-suffix, hg-cdn.com
 host-suffix, hgame18.com
 host-suffix, hgdju.com
 host-suffix, hggard.com
+host-suffix, hgto.cc
 host-suffix, hguaw.com
 host-suffix, hh.ru
 host-suffix, hh4vc.com
@@ -4463,6 +4468,7 @@ host-suffix, hxsd.com
 host-suffix, hyatt.com
 host-suffix, hybgzs.com
 host-suffix, hybiome.com
+host-suffix, hycdn.com
 host-suffix, hydro.ac
 host-suffix, hydun.com
 host-suffix, hyhpuro.com
@@ -4470,6 +4476,7 @@ host-suffix, hyper3d.ai
 host-suffix, hypercachenet.com
 host-suffix, hypercachenode.com
 host-suffix, hypergryph.com
+host-suffix, hypergryph.net
 host-suffix, hypnotube.com
 host-suffix, hytto.com
 host-suffix, hzchengdun.com
@@ -6719,6 +6726,7 @@ host-suffix, obricclouddw.com
 host-suffix, oceanbase.com
 host-suffix, oceancloudapi.com
 host-suffix, oceanengine.com
+host-suffix, octavedge.com
 host-suffix, octopia.com
 host-suffix, ocwms.com
 host-suffix, oeeee.com
@@ -7839,7 +7847,10 @@ host-suffix, sjwyx.com
 host-suffix, skills.sh
 host-suffix, skillselect.gov.au
 host-suffix, skimit.net
+host-suffix, skland.com
+host-suffix, skland.net
 host-suffix, skool.com
+host-suffix, skport.com
 host-suffix, skrbtco.cc
 host-suffix, skrbteo.cc
 host-suffix, skrbtho.cc

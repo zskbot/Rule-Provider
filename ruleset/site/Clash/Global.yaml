@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-11-15
+# 数据日期: 2026-11-16
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 181940 条（域名: 181826 / 精确域名: 103 / 正则: 11）
+# 规则统计: 共 181948 条（域名: 181834 / 精确域名: 103 / 正则: 11）
 # ============================================================
 payload:
   - DOMAIN-SUFFIX,0000000.live
@@ -15392,6 +15392,7 @@ payload:
   - DOMAIN-SUFFIX,arkkanapp2.net
   - DOMAIN-SUFFIX,arklowbay.com
   - DOMAIN-SUFFIX,arkm.com
+  - DOMAIN-SUFFIX,arknights.com
   - DOMAIN-SUFFIX,arknights.global
   - DOMAIN-SUFFIX,arkomalta.com
   - DOMAIN-SUFFIX,arkopharma.com
@@ -68448,6 +68449,7 @@ payload:
   - DOMAIN-SUFFIX,gry-hazardowe-zadarmo.com
   - DOMAIN-SUFFIX,gryadka.online
   - DOMAIN-SUFFIX,gryphline.com
+  - DOMAIN-SUFFIX,gryphline.net
   - DOMAIN-SUFFIX,gryphonet.sbs
   - DOMAIN-SUFFIX,gryphtech.com
   - DOMAIN-SUFFIX,grytto.com
@@ -72025,6 +72027,7 @@ payload:
   - DOMAIN-SUFFIX,hftfund.com
   - DOMAIN-SUFFIX,hfx.net
   - DOMAIN-SUFFIX,hfyali.com
+  - DOMAIN-SUFFIX,hg-cdn.com
   - DOMAIN-SUFFIX,hg6378ff3.com
   - DOMAIN-SUFFIX,hg957v4.com
   - DOMAIN-SUFFIX,hga038.com
@@ -75083,6 +75086,7 @@ payload:
   - DOMAIN-SUFFIX,hybridautoracer.online
   - DOMAIN-SUFFIX,hybrideservices.com
   - DOMAIN-SUFFIX,hybridpoultryfarm.com
+  - DOMAIN-SUFFIX,hycdn.com
   - DOMAIN-SUFFIX,hycite.com
   - DOMAIN-SUFFIX,hydatis.com
   - DOMAIN-SUFFIX,hydbrasil.com
@@ -75152,6 +75156,7 @@ payload:
   - DOMAIN-SUFFIX,hypergames.sbs
   - DOMAIN-SUFFIX,hypergames.top
   - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.net
   - DOMAIN-SUFFIX,hyperivals.app
   - DOMAIN-SUFFIX,hyperjoyst.com
   - DOMAIN-SUFFIX,hyperkaa.com
@@ -116164,6 +116169,7 @@ payload:
   - DOMAIN-SUFFIX,octane.store
   - DOMAIN-SUFFIX,octane.wtf
   - DOMAIN-SUFFIX,octave.org
+  - DOMAIN-SUFFIX,octavedge.com
   - DOMAIN-SUFFIX,octenium.com
   - DOMAIN-SUFFIX,octime.net
   - DOMAIN-SUFFIX,octoboot.asia
@@ -144988,6 +144994,8 @@ payload:
   - DOMAIN-SUFFIX,skladchinabiz.com
   - DOMAIN-SUFFIX,skladchinavip.app
   - DOMAIN-SUFFIX,sklaid.com
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
   - DOMAIN-SUFFIX,sklepopon.com
   - DOMAIN-SUFFIX,sklottery.bet
   - DOMAIN-SUFFIX,sklum.com

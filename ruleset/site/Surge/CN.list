@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-11-15
+# 数据日期: 2026-11-16
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10491 条（域名: 10473 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10502 条（域名: 10484 / 精确域名: 15 / 正则: 3）
 # ============================================================
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,0123456789.com
@@ -1150,6 +1150,7 @@ DOMAIN-SUFFIX,arcteryx.com
 DOMAIN-SUFFIX,arcus.xyz
 DOMAIN-SUFFIX,arenascan.com
 DOMAIN-SUFFIX,arkm.com
+DOMAIN-SUFFIX,arknights.com
 DOMAIN-SUFFIX,arpun.com
 DOMAIN-SUFFIX,artlist.io
 DOMAIN-SUFFIX,artofproblemsolving.com
@@ -3940,6 +3941,8 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,growingio.com
 DOMAIN-SUFFIX,grsai.ai
 DOMAIN-SUFFIX,grsai.com
+DOMAIN-SUFFIX,gryphline.com
+DOMAIN-SUFFIX,gryphline.net
 DOMAIN-SUFFIX,grzq.com
 DOMAIN-SUFFIX,gsadds.com
 DOMAIN-SUFFIX,gseen.com
@@ -4179,9 +4182,11 @@ DOMAIN-SUFFIX,hezuvip.com
 DOMAIN-SUFFIX,hf-aw.com
 DOMAIN-SUFFIX,hftfund.com
 DOMAIN-SUFFIX,hfx.net
+DOMAIN-SUFFIX,hg-cdn.com
 DOMAIN-SUFFIX,hgame18.com
 DOMAIN-SUFFIX,hgdju.com
 DOMAIN-SUFFIX,hggard.com
+DOMAIN-SUFFIX,hgto.cc
 DOMAIN-SUFFIX,hguaw.com
 DOMAIN-SUFFIX,hh.ru
 DOMAIN-SUFFIX,hh4vc.com
@@ -4463,6 +4468,7 @@ DOMAIN-SUFFIX,hxsd.com
 DOMAIN-SUFFIX,hyatt.com
 DOMAIN-SUFFIX,hybgzs.com
 DOMAIN-SUFFIX,hybiome.com
+DOMAIN-SUFFIX,hycdn.com
 DOMAIN-SUFFIX,hydro.ac
 DOMAIN-SUFFIX,hydun.com
 DOMAIN-SUFFIX,hyhpuro.com
@@ -4470,6 +4476,7 @@ DOMAIN-SUFFIX,hyper3d.ai
 DOMAIN-SUFFIX,hypercachenet.com
 DOMAIN-SUFFIX,hypercachenode.com
 DOMAIN-SUFFIX,hypergryph.com
+DOMAIN-SUFFIX,hypergryph.net
 DOMAIN-SUFFIX,hypnotube.com
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,hzchengdun.com
@@ -6719,6 +6726,7 @@ DOMAIN-SUFFIX,obricclouddw.com
 DOMAIN-SUFFIX,oceanbase.com
 DOMAIN-SUFFIX,oceancloudapi.com
 DOMAIN-SUFFIX,oceanengine.com
+DOMAIN-SUFFIX,octavedge.com
 DOMAIN-SUFFIX,octopia.com
 DOMAIN-SUFFIX,ocwms.com
 DOMAIN-SUFFIX,oeeee.com
@@ -7839,7 +7847,10 @@ DOMAIN-SUFFIX,sjwyx.com
 DOMAIN-SUFFIX,skills.sh
 DOMAIN-SUFFIX,skillselect.gov.au
 DOMAIN-SUFFIX,skimit.net
+DOMAIN-SUFFIX,skland.com
+DOMAIN-SUFFIX,skland.net
 DOMAIN-SUFFIX,skool.com
+DOMAIN-SUFFIX,skport.com
 DOMAIN-SUFFIX,skrbtco.cc
 DOMAIN-SUFFIX,skrbteo.cc
 DOMAIN-SUFFIX,skrbtho.cc
