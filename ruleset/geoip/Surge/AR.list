@@ -3,7 +3,7 @@
 # 阿根廷（Argentina）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 3065 条（IPv4: 1861 / IPv6: 1204）
+# 规则统计: 共 3066 条（IPv4: 1861 / IPv6: 1205）
 # ============================================================
 IP-CIDR,108.165.136.0/24,no-resolve
 IP-CIDR,108.165.197.0/24,no-resolve
@@ -2274,6 +2274,7 @@ IP-CIDR6,2803:4a20::/32,no-resolve
 IP-CIDR6,2803:4a60::/32,no-resolve
 IP-CIDR6,2803:4a80::/32,no-resolve
 IP-CIDR6,2803:4b00::/32,no-resolve
+IP-CIDR6,2803:4b0::/32,no-resolve
 IP-CIDR6,2803:4b40::/32,no-resolve
 IP-CIDR6,2803:4b60::/32,no-resolve
 IP-CIDR6,2803:4b80::/32,no-resolve

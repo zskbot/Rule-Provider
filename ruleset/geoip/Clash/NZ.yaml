@@ -3,7 +3,7 @@
 # 新西兰（New Zealand）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1875 条（IPv4: 1443 / IPv6: 432）
+# 规则统计: 共 1876 条（IPv4: 1443 / IPv6: 433）
 # ============================================================
 payload:
   - IP-CIDR,101.100.0.0/17,no-resolve
@@ -1722,6 +1722,7 @@ payload:
   - IP-CIDR6,2402:7c0::/32,no-resolve
   - IP-CIDR6,2402:7e00::/32,no-resolve
   - IP-CIDR6,2402:8200::/32,no-resolve
+  - IP-CIDR6,2402:82a0::/32,no-resolve
   - IP-CIDR6,2402:8b80::/32,no-resolve
   - IP-CIDR6,2402:9740::/32,no-resolve
   - IP-CIDR6,2402:9e00::/32,no-resolve

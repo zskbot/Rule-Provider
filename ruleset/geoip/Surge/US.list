@@ -3,7 +3,7 @@
 # 美国（United States）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 68711 条（IPv4: 51273 / IPv6: 17438）
+# 规则统计: 共 68712 条（IPv4: 51273 / IPv6: 17439）
 # ============================================================
 IP-CIDR,1.0.0.0/24,no-resolve
 IP-CIDR,1.1.1.0/24,no-resolve
@@ -62243,6 +62243,7 @@ IP-CIDR6,2620:99:8000::/48,no-resolve
 IP-CIDR6,2620:99::/48,no-resolve
 IP-CIDR6,2620:99:b000::/48,no-resolve
 IP-CIDR6,2620:99:e000::/48,no-resolve
+IP-CIDR6,2620:9:1840::/48,no-resolve
 IP-CIDR6,2620:9:4000::/48,no-resolve
 IP-CIDR6,2620:9:6000::/48,no-resolve
 IP-CIDR6,2620:9:8000::/48,no-resolve

@@ -3,7 +3,7 @@
 # 日本（Japan）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4545 条（IPv4: 3786 / IPv6: 759）
+# 规则统计: 共 4546 条（IPv4: 3787 / IPv6: 759）
 # ============================================================
 payload:
   - IP-CIDR,1.0.16.0/20,no-resolve
@@ -1879,6 +1879,7 @@ payload:
   - IP-CIDR,165.102.0.0/16,no-resolve
   - IP-CIDR,165.108.0.0/16,no-resolve
   - IP-CIDR,165.14.0.0/16,no-resolve
+  - IP-CIDR,165.173.152.0/21,no-resolve
   - IP-CIDR,165.173.184.0/23,no-resolve
   - IP-CIDR,165.241.0.0/16,no-resolve
   - IP-CIDR,165.242.0.0/16,no-resolve

@@ -3,7 +3,7 @@
 # 德国（Germany）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 14731 条（IPv4: 10779 / IPv6: 3952）
+# 规则统计: 共 14731 条（IPv4: 10778 / IPv6: 3953）
 # ============================================================
 payload:
   - IP-CIDR,100.42.176.0/20,no-resolve
@@ -5103,7 +5103,6 @@ payload:
   - IP-CIDR,194.145.234.0/24,no-resolve
   - IP-CIDR,194.145.236.0/24,no-resolve
   - IP-CIDR,194.145.239.0/24,no-resolve
-  - IP-CIDR,194.145.252.0/22,no-resolve
   - IP-CIDR,194.145.59.0/24,no-resolve
   - IP-CIDR,194.145.60.0/23,no-resolve
   - IP-CIDR,194.145.62.0/24,no-resolve
@@ -14472,6 +14471,7 @@ payload:
   - IP-CIDR6,2a13:4900::/29,no-resolve
   - IP-CIDR6,2a13:49c0::/32,no-resolve
   - IP-CIDR6,2a13:4d80::/29,no-resolve
+  - IP-CIDR6,2a13:5100::/29,no-resolve
   - IP-CIDR6,2a13:5340::/29,no-resolve
   - IP-CIDR6,2a13:5480::/32,no-resolve
   - IP-CIDR6,2a13:5680::/29,no-resolve

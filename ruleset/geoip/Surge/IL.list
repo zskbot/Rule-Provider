@@ -3,7 +3,7 @@
 # 以色列（Israel）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1443 条（IPv4: 1179 / IPv6: 264）
+# 规则统计: 共 1444 条（IPv4: 1180 / IPv6: 264）
 # ============================================================
 IP-CIDR,102.128.166.0/24,no-resolve
 IP-CIDR,102.128.74.0/24,no-resolve
@@ -1182,6 +1182,7 @@ IP-CIDR,95.142.16.0/20,no-resolve
 IP-CIDR,95.175.32.0/19,no-resolve
 IP-CIDR,95.183.0.0/21,no-resolve
 IP-CIDR,95.35.0.0/16,no-resolve
+IP-CIDR,95.36.192.0/18,no-resolve
 IP-CIDR,95.86.64.0/18,no-resolve
 IP-CIDR,96.9.127.0/24,no-resolve
 IP-CIDR6,2001:40a8::/32,no-resolve

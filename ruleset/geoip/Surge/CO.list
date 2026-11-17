@@ -3,7 +3,7 @@
 # 哥伦比亚（Colombia）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1686 条（IPv4: 870 / IPv6: 816）
+# 规则统计: 共 1687 条（IPv4: 870 / IPv6: 817）
 # ============================================================
 IP-CIDR,103.133.208.0/22,no-resolve
 IP-CIDR,103.212.83.0/24,no-resolve
@@ -1490,6 +1490,7 @@ IP-CIDR6,2803:830::/32,no-resolve
 IP-CIDR6,2803:8340::/32,no-resolve
 IP-CIDR6,2803:8400::/32,no-resolve
 IP-CIDR6,2803:8450::/32,no-resolve
+IP-CIDR6,2803:84b0::/32,no-resolve
 IP-CIDR6,2803:84c0::/32,no-resolve
 IP-CIDR6,2803:84e0::/32,no-resolve
 IP-CIDR6,2803:8530::/32,no-resolve

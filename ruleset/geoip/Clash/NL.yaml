@@ -3,7 +3,7 @@
 # 荷兰（Netherlands）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 17000 条（IPv4: 11822 / IPv6: 5178）
+# 规则统计: 共 16999 条（IPv4: 11820 / IPv6: 5179）
 # ============================================================
 payload:
   - IP-CIDR,101.97.0.0/19,no-resolve
@@ -6027,7 +6027,6 @@ payload:
   - IP-CIDR,2.58.236.0/22,no-resolve
   - IP-CIDR,2.58.57.0/24,no-resolve
   - IP-CIDR,2.58.58.0/23,no-resolve
-  - IP-CIDR,2.59.136.0/22,no-resolve
   - IP-CIDR,2.59.168.0/22,no-resolve
   - IP-CIDR,2.59.20.0/24,no-resolve
   - IP-CIDR,2.59.36.0/22,no-resolve
@@ -11693,7 +11692,6 @@ payload:
   - IP-CIDR,95.36.0.0/20,no-resolve
   - IP-CIDR,95.36.104.0/21,no-resolve
   - IP-CIDR,95.36.112.0/20,no-resolve
-  - IP-CIDR,95.36.192.0/18,no-resolve
   - IP-CIDR,95.36.64.0/21,no-resolve
   - IP-CIDR,95.85.204.0/22,no-resolve
   - IP-CIDR,95.85.212.0/22,no-resolve
@@ -16907,6 +16905,7 @@ payload:
   - IP-CIDR6,2a13:4e80::/29,no-resolve
   - IP-CIDR6,2a13:5940::/29,no-resolve
   - IP-CIDR6,2a13:5c80::/29,no-resolve
+  - IP-CIDR6,2a13:5d40::/29,no-resolve
   - IP-CIDR6,2a13:6c0::/29,no-resolve
   - IP-CIDR6,2a13:6ec0::/32,no-resolve
   - IP-CIDR6,2a13:7600::/29,no-resolve

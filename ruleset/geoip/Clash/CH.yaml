@@ -3,7 +3,7 @@
 # 瑞士（Switzerland）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4042 条（IPv4: 3116 / IPv6: 926）
+# 规则统计: 共 4043 条（IPv4: 3116 / IPv6: 927）
 # ============================================================
 payload:
   - IP-CIDR,101.2.251.0/24,no-resolve
@@ -4019,6 +4019,7 @@ payload:
   - IP-CIDR6,2a13:4a00::/29,no-resolve
   - IP-CIDR6,2a13:4c80::/29,no-resolve
   - IP-CIDR6,2a13:5400::/29,no-resolve
+  - IP-CIDR6,2a13:5580::/29,no-resolve
   - IP-CIDR6,2a13:5681:1::/48,no-resolve
   - IP-CIDR6,2a13:5681:2::/48,no-resolve
   - IP-CIDR6,2a13:5681:6::/47,no-resolve
