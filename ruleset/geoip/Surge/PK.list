@@ -440,7 +440,7 @@ IP-CIDR,111.88.72.0/23,no-resolve
 IP-CIDR,111.88.75.0/24,no-resolve
 IP-CIDR,111.88.76.0/23,no-resolve
 IP-CIDR,111.88.79.0/24,no-resolve
-IP-CIDR,111.88.80.0/20,no-resolve
+IP-CIDR,111.88.88.0/21,no-resolve
 IP-CIDR,111.92.128.0/19,no-resolve
 IP-CIDR,113.192.46.0/23,no-resolve
 IP-CIDR,113.197.48.0/21,no-resolve

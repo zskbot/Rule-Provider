@@ -3,7 +3,7 @@
 # 卡塔尔（Qatar）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 82 条（IPv4: 58 / IPv6: 24）
+# 规则统计: 共 83 条（IPv4: 58 / IPv6: 25）
 # ============================================================
 payload:
   - IP-CIDR,103.14.208.0/22,no-resolve
@@ -84,6 +84,7 @@ payload:
   - IP-CIDR6,2a0c:a640::/29,no-resolve
   - IP-CIDR6,2a0c:b2c0::/29,no-resolve
   - IP-CIDR6,2a0d:bc0::/29,no-resolve
+  - IP-CIDR6,2a13:b580::/29,no-resolve
   - IP-CIDR6,2a14:4700::/29,no-resolve
   - IP-CIDR6,2a14:4b40::/29,no-resolve
   - IP-CIDR6,2a14:5480::/29,no-resolve

@@ -3,7 +3,7 @@
 # 波兰（Poland）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5434 条（IPv4: 4341 / IPv6: 1093）
+# 规则统计: 共 5434 条（IPv4: 4342 / IPv6: 1092）
 # ============================================================
 payload:
   - IP-CIDR,102.135.7.0/24,no-resolve
@@ -94,6 +94,7 @@ payload:
   - IP-CIDR,130.78.177.0/24,no-resolve
   - IP-CIDR,130.78.186.0/24,no-resolve
   - IP-CIDR,131.143.31.0/24,no-resolve
+  - IP-CIDR,135.126.0.0/17,no-resolve
   - IP-CIDR,138.226.240.0/20,no-resolve
   - IP-CIDR,138.249.134.0/24,no-resolve
   - IP-CIDR,138.249.6.0/24,no-resolve
@@ -4527,7 +4528,6 @@ payload:
   - IP-CIDR6,2001:67c:2890::/48,no-resolve
   - IP-CIDR6,2001:67c:2934::/48,no-resolve
   - IP-CIDR6,2001:67c:293c::/48,no-resolve
-  - IP-CIDR6,2001:67c:2990::/48,no-resolve
   - IP-CIDR6,2001:67c:29fc::/48,no-resolve
   - IP-CIDR6,2001:67c:2a94::/48,no-resolve
   - IP-CIDR6,2001:67c:2ac8::/48,no-resolve

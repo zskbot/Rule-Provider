@@ -3,7 +3,7 @@
 # 中国（China）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 10036 条（IPv4: 7054 / IPv6: 2982）
+# 规则统计: 共 10037 条（IPv4: 7054 / IPv6: 2983）
 # ============================================================
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -9868,6 +9868,7 @@ IP-CIDR6,2a12:f8c3:80::/41,no-resolve
 IP-CIDR6,2a12:f8c3:8::/45,no-resolve
 IP-CIDR6,2a12:f8c3::/48,no-resolve
 IP-CIDR6,2a13:1800::/29,no-resolve
+IP-CIDR6,2a13:7100::/29,no-resolve
 IP-CIDR6,2a13:8b40::/29,no-resolve
 IP-CIDR6,2a13:9500:194::/48,no-resolve
 IP-CIDR6,2a13:a5c3:f000::/40,no-resolve

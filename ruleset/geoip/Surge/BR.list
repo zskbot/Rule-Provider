@@ -3,7 +3,7 @@
 # 巴西（Brazil）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 15668 条（IPv4: 6568 / IPv6: 9100）
+# 规则统计: 共 15672 条（IPv4: 6568 / IPv6: 9104）
 # ============================================================
 IP-CIDR,102.129.192.0/24,no-resolve
 IP-CIDR,102.129.211.0/24,no-resolve
@@ -15229,6 +15229,10 @@ IP-CIDR6,2804:9b18::/32,no-resolve
 IP-CIDR6,2804:9b1c::/32,no-resolve
 IP-CIDR6,2804:9b20::/32,no-resolve
 IP-CIDR6,2804:9b24::/32,no-resolve
+IP-CIDR6,2804:9b28::/32,no-resolve
+IP-CIDR6,2804:9b2c::/32,no-resolve
+IP-CIDR6,2804:9b30::/32,no-resolve
+IP-CIDR6,2804:9b34::/32,no-resolve
 IP-CIDR6,2804:9b4::/32,no-resolve
 IP-CIDR6,2804:9b8::/32,no-resolve
 IP-CIDR6,2804:9c0::/32,no-resolve

@@ -3,7 +3,7 @@
 # 孟加拉国（Bangladesh）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4326 条（IPv4: 2635 / IPv6: 1691）
+# 规则统计: 共 4328 条（IPv4: 2636 / IPv6: 1692）
 # ============================================================
 IP-CIDR,101.1.16.0/23,no-resolve
 IP-CIDR,101.2.160.0/21,no-resolve
@@ -1621,6 +1621,7 @@ IP-CIDR,141.11.199.0/24,no-resolve
 IP-CIDR,141.229.16.0/23,no-resolve
 IP-CIDR,141.229.22.0/23,no-resolve
 IP-CIDR,141.229.34.0/23,no-resolve
+IP-CIDR,141.229.38.0/23,no-resolve
 IP-CIDR,143.14.35.0/24,no-resolve
 IP-CIDR,143.20.35.0/24,no-resolve
 IP-CIDR,143.203.133.0/24,no-resolve
@@ -3945,6 +3946,7 @@ IP-CIDR6,2402:7ca0::/32,no-resolve
 IP-CIDR6,2402:7d20::/32,no-resolve
 IP-CIDR6,2402:7e40::/32,no-resolve
 IP-CIDR6,2402:80e0::/32,no-resolve
+IP-CIDR6,2402:8320::/32,no-resolve
 IP-CIDR6,2402:8340::/32,no-resolve
 IP-CIDR6,2402:8640::/32,no-resolve
 IP-CIDR6,2402:88c0::/32,no-resolve

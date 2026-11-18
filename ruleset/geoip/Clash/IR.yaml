@@ -3,7 +3,7 @@
 # 伊朗（Iran）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 2461 条（IPv4: 1877 / IPv6: 584）
+# 规则统计: 共 2462 条（IPv4: 1878 / IPv6: 584）
 # ============================================================
 payload:
   - IP-CIDR,103.111.69.0/24,no-resolve
@@ -963,6 +963,7 @@ payload:
   - IP-CIDR,195.191.44.0/23,no-resolve
   - IP-CIDR,195.191.74.0/23,no-resolve
   - IP-CIDR,195.2.234.0/24,no-resolve
+  - IP-CIDR,195.2.250.0/24,no-resolve
   - IP-CIDR,195.20.136.0/24,no-resolve
   - IP-CIDR,195.200.76.0/23,no-resolve
   - IP-CIDR,195.211.44.0/22,no-resolve
@@ -2036,7 +2037,7 @@ payload:
   - IP-CIDR6,2a05:1440::/29,no-resolve
   - IP-CIDR6,2a05:1a00::/26,no-resolve
   - IP-CIDR6,2a05:2580::/29,no-resolve
-  - IP-CIDR6,2a05:2d80::/29,no-resolve
+  - IP-CIDR6,2a05:2d80::/48,no-resolve
   - IP-CIDR6,2a05:3100::/29,no-resolve
   - IP-CIDR6,2a05:3800::/29,no-resolve
   - IP-CIDR6,2a05:3e40::/29,no-resolve

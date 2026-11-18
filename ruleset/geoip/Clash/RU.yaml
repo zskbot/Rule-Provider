@@ -3,7 +3,7 @@
 # 俄罗斯（Russia）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 13183 条（IPv4: 10753 / IPv6: 2430）
+# 规则统计: 共 13181 条（IPv4: 10751 / IPv6: 2430）
 # ============================================================
 payload:
   - IP-CIDR,103.101.85.0/24,no-resolve
@@ -791,7 +791,6 @@ payload:
   - IP-CIDR,171.22.138.0/24,no-resolve
   - IP-CIDR,171.22.180.0/22,no-resolve
   - IP-CIDR,171.22.212.0/22,no-resolve
-  - IP-CIDR,171.22.236.0/22,no-resolve
   - IP-CIDR,171.22.242.0/24,no-resolve
   - IP-CIDR,171.22.30.0/24,no-resolve
   - IP-CIDR,171.22.72.0/22,no-resolve
@@ -9859,7 +9858,6 @@ payload:
   - IP-CIDR,91.241.182.0/23,no-resolve
   - IP-CIDR,91.241.184.0/21,no-resolve
   - IP-CIDR,91.241.22.0/24,no-resolve
-  - IP-CIDR,91.241.4.0/24,no-resolve
   - IP-CIDR,91.241.43.0/24,no-resolve
   - IP-CIDR,91.241.45.0/24,no-resolve
   - IP-CIDR,91.241.46.0/23,no-resolve

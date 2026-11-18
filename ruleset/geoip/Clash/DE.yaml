@@ -12454,7 +12454,7 @@ payload:
   - IP-CIDR6,2a03:9b40::/32,no-resolve
   - IP-CIDR6,2a03:9d00::/32,no-resolve
   - IP-CIDR6,2a03:9e40::/29,no-resolve
-  - IP-CIDR6,2a03:a080::/32,no-resolve
+  - IP-CIDR6,2a03:a080::/29,no-resolve
   - IP-CIDR6,2a03:a540::/32,no-resolve
   - IP-CIDR6,2a03:a660::/32,no-resolve
   - IP-CIDR6,2a03:a920::/32,no-resolve

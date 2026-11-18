@@ -3,7 +3,7 @@
 # 加拿大（Canada）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 9631 条（IPv4: 8218 / IPv6: 1413）
+# 规则统计: 共 9633 条（IPv4: 8219 / IPv6: 1414）
 # ============================================================
 IP-CIDR,100.42.240.0/20,no-resolve
 IP-CIDR,100.43.96.0/19,no-resolve
@@ -6167,6 +6167,7 @@ IP-CIDR,23.142.24.0/24,no-resolve
 IP-CIDR,23.143.108.0/24,no-resolve
 IP-CIDR,23.143.112.0/24,no-resolve
 IP-CIDR,23.143.188.0/24,no-resolve
+IP-CIDR,23.143.20.0/24,no-resolve
 IP-CIDR,23.143.216.0/24,no-resolve
 IP-CIDR,23.143.248.0/24,no-resolve
 IP-CIDR,23.143.56.0/24,no-resolve
@@ -8707,6 +8708,7 @@ IP-CIDR6,2604:1860::/32,no-resolve
 IP-CIDR6,2604:18a0::/32,no-resolve
 IP-CIDR6,2604:18e0::/32,no-resolve
 IP-CIDR6,2604:1920::/32,no-resolve
+IP-CIDR6,2604:19e0::/32,no-resolve
 IP-CIDR6,2604:1b00::/32,no-resolve
 IP-CIDR6,2604:1d00::/32,no-resolve
 IP-CIDR6,2604:1e80::/32,no-resolve

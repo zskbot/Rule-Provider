@@ -3,7 +3,7 @@
 # 葡萄牙（Portugal）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 648 条（IPv4: 495 / IPv6: 153）
+# 规则统计: 共 646 条（IPv4: 495 / IPv6: 151）
 # ============================================================
 payload:
   - IP-CIDR,103.117.124.0/22,no-resolve
@@ -584,7 +584,6 @@ payload:
   - IP-CIDR6,2a0b:8400::/29,no-resolve
   - IP-CIDR6,2a0b:94c0::/32,no-resolve
   - IP-CIDR6,2a0b:c1c0::/29,no-resolve
-  - IP-CIDR6,2a0b:e640::/29,no-resolve
   - IP-CIDR6,2a0b:e740::/29,no-resolve
   - IP-CIDR6,2a0c:3840::/29,no-resolve
   - IP-CIDR6,2a0c:9740::/29,no-resolve
@@ -601,7 +600,6 @@ payload:
   - IP-CIDR6,2a0e:1f40::/29,no-resolve
   - IP-CIDR6,2a0e:48c0::/29,no-resolve
   - IP-CIDR6,2a0e:5f00::/29,no-resolve
-  - IP-CIDR6,2a0e:bc00::/29,no-resolve
   - IP-CIDR6,2a0e:ec00::/30,no-resolve
   - IP-CIDR6,2a0e:ec04::/31,no-resolve
   - IP-CIDR6,2a0f:6280:1057::/48,no-resolve

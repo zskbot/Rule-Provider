@@ -3,7 +3,7 @@
 # 英国（United Kingdom）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 20394 条（IPv4: 16801 / IPv6: 3593）
+# 规则统计: 共 20394 条（IPv4: 16800 / IPv6: 3594）
 # ============================================================
 IP-CIDR,1.186.0.0/16,no-resolve
 IP-CIDR,101.53.79.0/24,no-resolve
@@ -7234,7 +7234,6 @@ IP-CIDR,192.6.242.0/24,no-resolve
 IP-CIDR,192.6.34.0/24,no-resolve
 IP-CIDR,192.6.46.0/24,no-resolve
 IP-CIDR,192.6.90.0/24,no-resolve
-IP-CIDR,192.64.125.0/24,no-resolve
 IP-CIDR,192.65.132.0/24,no-resolve
 IP-CIDR,192.65.144.0/23,no-resolve
 IP-CIDR,192.65.146.0/24,no-resolve
@@ -20138,6 +20137,7 @@ IP-CIDR6,2a13:4ec0::/29,no-resolve
 IP-CIDR6,2a13:52c0::/29,no-resolve
 IP-CIDR6,2a13:5700::/29,no-resolve
 IP-CIDR6,2a13:6040::/29,no-resolve
+IP-CIDR6,2a13:6440::/29,no-resolve
 IP-CIDR6,2a13:6500::/29,no-resolve
 IP-CIDR6,2a13:6a00::/29,no-resolve
 IP-CIDR6,2a13:6cc0::/32,no-resolve

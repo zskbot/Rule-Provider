@@ -3,7 +3,7 @@
 # 比利时（Belgium）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1684 条（IPv4: 1295 / IPv6: 389）
+# 规则统计: 共 1685 条（IPv4: 1295 / IPv6: 390）
 # ============================================================
 IP-CIDR,102.176.128.0/19,no-resolve
 IP-CIDR,103.13.218.0/24,no-resolve
@@ -1661,6 +1661,7 @@ IP-CIDR6,2a13:5c40::/29,no-resolve
 IP-CIDR6,2a13:5f00::/29,no-resolve
 IP-CIDR6,2a13:6100::/29,no-resolve
 IP-CIDR6,2a13:8300::/29,no-resolve
+IP-CIDR6,2a13:8480::/29,no-resolve
 IP-CIDR6,2a13:9500:48::/48,no-resolve
 IP-CIDR6,2a13:aa40::/29,no-resolve
 IP-CIDR6,2a13:f700::/29,no-resolve

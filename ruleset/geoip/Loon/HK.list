@@ -3,7 +3,7 @@
 # 中国香港（Hong Kong）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 9546 条（IPv4: 8048 / IPv6: 1498）
+# 规则统计: 共 9548 条（IPv4: 8049 / IPv6: 1499）
 # ============================================================
 IP-CIDR,1.178.32.0/19,no-resolve
 IP-CIDR,1.32.192.0/21,no-resolve
@@ -2122,6 +2122,7 @@ IP-CIDR,141.162.159.0/24,no-resolve
 IP-CIDR,141.193.152.0/21,no-resolve
 IP-CIDR,141.195.112.0/22,no-resolve
 IP-CIDR,141.229.28.0/23,no-resolve
+IP-CIDR,141.229.42.0/23,no-resolve
 IP-CIDR,141.98.1.0/24,no-resolve
 IP-CIDR,141.98.70.0/24,no-resolve
 IP-CIDR,141.98.75.0/24,no-resolve
@@ -3625,7 +3626,7 @@ IP-CIDR,159.200.204.0/24,no-resolve
 IP-CIDR,159.200.222.0/23,no-resolve
 IP-CIDR,159.200.224.0/22,no-resolve
 IP-CIDR,159.200.248.0/21,no-resolve
-IP-CIDR,159.200.64.0/18,no-resolve
+IP-CIDR,159.200.64.0/19,no-resolve
 IP-CIDR,159.215.130.0/23,no-resolve
 IP-CIDR,16.216.23.0/24,no-resolve
 IP-CIDR,16.216.8.0/24,no-resolve
@@ -8656,6 +8657,7 @@ IP-CIDR6,2402:6f00::/32,no-resolve
 IP-CIDR6,2402:6fe0::/32,no-resolve
 IP-CIDR6,2402:720::/32,no-resolve
 IP-CIDR6,2402:7840::/32,no-resolve
+IP-CIDR6,2402:8360::/32,no-resolve
 IP-CIDR6,2402:860::/32,no-resolve
 IP-CIDR6,2402:8a40::/32,no-resolve
 IP-CIDR6,2402:90c0::/32,no-resolve

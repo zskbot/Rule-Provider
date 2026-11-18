@@ -3,7 +3,7 @@
 # 印度（India）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 12045 条（IPv4: 9003 / IPv6: 3042）
+# 规则统计: 共 12052 条（IPv4: 9006 / IPv6: 3046）
 # ============================================================
 payload:
   - IP-CIDR,1.10.10.0/24,no-resolve
@@ -5100,6 +5100,8 @@ payload:
   - IP-CIDR,141.229.26.0/23,no-resolve
   - IP-CIDR,141.229.30.0/23,no-resolve
   - IP-CIDR,141.229.32.0/23,no-resolve
+  - IP-CIDR,141.229.36.0/23,no-resolve
+  - IP-CIDR,141.229.44.0/23,no-resolve
   - IP-CIDR,142.147.144.0/20,no-resolve
   - IP-CIDR,142.202.252.0/22,no-resolve
   - IP-CIDR,142.79.224.0/19,no-resolve
@@ -7216,6 +7218,7 @@ payload:
   - IP-CIDR,203.25.136.0/24,no-resolve
   - IP-CIDR,203.26.234.0/24,no-resolve
   - IP-CIDR,203.27.235.0/24,no-resolve
+  - IP-CIDR,203.28.199.0/24,no-resolve
   - IP-CIDR,203.28.245.0/24,no-resolve
   - IP-CIDR,203.29.200.0/23,no-resolve
   - IP-CIDR,203.31.125.0/24,no-resolve
@@ -10711,6 +10714,9 @@ payload:
   - IP-CIDR6,2001:df7:dd40::/48,no-resolve
   - IP-CIDR6,2001:df7:dd80::/48,no-resolve
   - IP-CIDR6,2001:df7:de00::/46,no-resolve
+  - IP-CIDR6,2001:df7:dec0::/48,no-resolve
+  - IP-CIDR6,2001:df7:dfc0::/48,no-resolve
+  - IP-CIDR6,2001:df7:e040::/48,no-resolve
   - IP-CIDR6,2001:df7:e080::/48,no-resolve
   - IP-CIDR6,2001:df7:e180::/48,no-resolve
   - IP-CIDR6,2001:df7:e200::/48,no-resolve
@@ -11337,6 +11343,7 @@ payload:
   - IP-CIDR6,2402:8120::/32,no-resolve
   - IP-CIDR6,2402:81a0::/32,no-resolve
   - IP-CIDR6,2402:81c0::/32,no-resolve
+  - IP-CIDR6,2402:83a0::/32,no-resolve
   - IP-CIDR6,2402:8400::/32,no-resolve
   - IP-CIDR6,2402:8680::/32,no-resolve
   - IP-CIDR6,2402:8a00::/32,no-resolve

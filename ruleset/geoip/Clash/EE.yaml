@@ -3,7 +3,7 @@
 # 爱沙尼亚（Estonia）
 # 数据日期: 2026-11-16
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1373 条（IPv4: 1100 / IPv6: 273）
+# 规则统计: 共 1374 条（IPv4: 1101 / IPv6: 273）
 # ============================================================
 payload:
   - IP-CIDR,103.140.186.0/23,no-resolve
@@ -848,6 +848,7 @@ payload:
   - IP-CIDR,82.131.0.0/17,no-resolve
   - IP-CIDR,82.147.160.0/19,no-resolve
   - IP-CIDR,82.153.50.0/24,no-resolve
+  - IP-CIDR,82.158.176.0/22,no-resolve
   - IP-CIDR,82.21.125.0/24,no-resolve
   - IP-CIDR,82.21.199.0/24,no-resolve
   - IP-CIDR,82.21.222.0/24,no-resolve

@@ -12453,7 +12453,7 @@ ip6-cidr, 2a03:9980::/29
 ip6-cidr, 2a03:9b40::/32
 ip6-cidr, 2a03:9d00::/32
 ip6-cidr, 2a03:9e40::/29
-ip6-cidr, 2a03:a080::/32
+ip6-cidr, 2a03:a080::/29
 ip6-cidr, 2a03:a540::/32
 ip6-cidr, 2a03:a660::/32
 ip6-cidr, 2a03:a920::/32
