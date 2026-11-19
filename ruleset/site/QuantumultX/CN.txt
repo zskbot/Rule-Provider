@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10502 条（域名: 10484 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10523 条（域名: 10505 / 精确域名: 15 / 正则: 3）
 # ============================================================
 host-suffix, 00cdn.com
 host-suffix, 0123456789.com
@@ -105,6 +105,7 @@ host-suffix, 169ol.com
 host-suffix, 16rd.com
 host-suffix, 17173.com
 host-suffix, 17173cdn.com
+host-suffix, 172.com
 host-suffix, 172mix.com
 host-suffix, 177pica.com
 host-suffix, 178.com
@@ -155,7 +156,10 @@ host-suffix, 1mei.live
 host-suffix, 1nongjing.com
 host-suffix, 1porn.tv
 host-suffix, 1ppt.com
+host-suffix, 1qianbao.com
 host-suffix, 1ting.com
+host-suffix, 1y.com
+host-suffix, 1ycdn.com
 host-suffix, 1zhe.com
 host-suffix, 20130123.com
 host-suffix, 2023game.com
@@ -289,6 +293,7 @@ host-suffix, 3songshu.com
 host-suffix, 3xplanet.com
 host-suffix, 3xplanet.net
 host-suffix, 3yx.com
+host-suffix, 4008000000.com
 host-suffix, 4008117117.com
 host-suffix, 40407.com
 host-suffix, 41nr.com
@@ -863,6 +868,7 @@ host-suffix, aizgtc.com
 host-suffix, aizhan.com
 host-suffix, ajianpingce.com
 host-suffix, ajinga.com
+host-suffix, ajkimg.com
 host-suffix, ajzq.com
 host-suffix, aka815.net
 host-suffix, aki-game.com
@@ -1323,6 +1329,8 @@ host-suffix, baikemy.com
 host-suffix, baikevod.com
 host-suffix, baimiao.tech
 host-suffix, baimiaoapp.com
+host-suffix, baishan.com
+host-suffix, baishancloud.com
 host-suffix, baishinetwork.com
 host-suffix, baishuku.la
 host-suffix, baitiao.com
@@ -5677,6 +5685,7 @@ host-suffix, lenovo.net
 host-suffix, lenovocloudos.com
 host-suffix, lenovoeservice.com
 host-suffix, lenovofile.com
+host-suffix, lenovofuturecenter.com
 host-suffix, lenovogame.com
 host-suffix, lenovoimage.com
 host-suffix, lenovomm.com
@@ -5868,6 +5877,7 @@ host-suffix, ludoworld.net
 host-suffix, lufax.com
 host-suffix, lufaxcdn.com
 host-suffix, lufunds.com
+host-suffix, lujincaifu.com
 host-suffix, luluai.site
 host-suffix, lululemon.com
 host-suffix, lululu.one
@@ -6212,6 +6222,7 @@ host-suffix, mineru.net
 host-suffix, mingdao.com
 host-suffix, mingpao.com
 host-suffix, mingxuan.store
+host-suffix, mingyuanfund.com
 host-suffix, mingyuanyun.com
 host-suffix, minhangshi.com
 host-suffix, minimaxi.com
@@ -6868,6 +6879,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com
 host-suffix, oss-cn-shenzhen.aliyuncs.com
 host-suffix, oss-cn-wulanchabu.aliyuncs.com
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com
+host-suffix, oss-enet.aliyuncs.com
 host-suffix, oss-eu-central-1.aliyuncs.com
 host-suffix, oss-eu-west-1.aliyuncs.com
 host-suffix, oss-me-east-1.aliyuncs.com
@@ -6897,6 +6909,7 @@ host-suffix, p2cdn.com
 host-suffix, p2peye.com
 host-suffix, p4455.com
 host-suffix, p5w.net
+host-suffix, pacfc.com
 host-suffix, packyapi.com
 host-suffix, pacmantwo.com
 host-suffix, pagerrentablespotlight.com
@@ -7321,6 +7334,7 @@ host-suffix, qoj.ac
 host-suffix, qoo10.jp
 host-suffix, qooly.com
 host-suffix, qorno.com
+host-suffix, qpmcn.com
 host-suffix, qq.cn.com
 host-suffix, qq.com
 host-suffix, qq.design
@@ -8400,6 +8414,7 @@ host-suffix, tencent.com
 host-suffix, tencent.com.hk
 host-suffix, tencent.design
 host-suffix, tencent.net
+host-suffix, tencentads.com
 host-suffix, tencentapps.com
 host-suffix, tencentbyod.com
 host-suffix, tencentcdb.com
@@ -8754,6 +8769,7 @@ host-suffix, trixiebooru.org
 host-suffix, trjcn.com
 host-suffix, tronscan.io
 host-suffix, tropicaltidbits.com
+host-suffix, trpcdn.com
 host-suffix, trpcdn.net
 host-suffix, truckersmp.com
 host-suffix, trunktech.com
@@ -10029,6 +10045,7 @@ host-suffix, yinhang123.net
 host-suffix, yinxiang.com
 host-suffix, yinyuetai.com
 host-suffix, yinzhaowang.com
+host-suffix, yiqianbao.com
 host-suffix, yiqifa.com
 host-suffix, yiqifa.org
 host-suffix, yisou.com
@@ -10117,6 +10134,8 @@ host-suffix, ypllt.org
 host-suffix, ypppt.com
 host-suffix, ypsq-01.xyz
 host-suffix, yqb.com
+host-suffix, yqbimg.net
+host-suffix, yqbmall.com
 host-suffix, yqn.com
 host-suffix, yrz.name
 host-suffix, ys7.com
@@ -10305,6 +10324,8 @@ host-suffix, zhanqi.tv
 host-suffix, zhanzhang.net
 host-suffix, zhaodanji.com
 host-suffix, zhaokao.net
+host-suffix, zhaoliangji.com
+host-suffix, zhaoliangjipc.com
 host-suffix, zhaomishijie.com
 host-suffix, zhaomu.com
 host-suffix, zhaopin.com

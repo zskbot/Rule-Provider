@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: NL
 # 荷兰（Netherlands）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 16999 条（IPv4: 11820 / IPv6: 5179）
+# 规则统计: 共 17000 条（IPv4: 11821 / IPv6: 5179）
 # ============================================================
 payload:
   - IP-CIDR,101.97.0.0/19,no-resolve
@@ -6453,7 +6453,8 @@ payload:
   - IP-CIDR,213.193.232.0/23,no-resolve
   - IP-CIDR,213.193.234.0/24,no-resolve
   - IP-CIDR,213.193.237.0/24,no-resolve
-  - IP-CIDR,213.193.240.0/21,no-resolve
+  - IP-CIDR,213.193.240.0/22,no-resolve
+  - IP-CIDR,213.193.246.0/23,no-resolve
   - IP-CIDR,213.196.0.0/18,no-resolve
   - IP-CIDR,213.197.0.0/18,no-resolve
   - IP-CIDR,213.197.192.0/18,no-resolve

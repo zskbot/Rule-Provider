@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: IR
 # 伊朗（Iran）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 2462 条（IPv4: 1878 / IPv6: 584）
+# 规则统计: 共 2464 条（IPv4: 1879 / IPv6: 585）
 # ============================================================
 payload:
   - IP-CIDR,103.111.69.0/24,no-resolve
@@ -963,7 +963,7 @@ payload:
   - IP-CIDR,195.191.44.0/23,no-resolve
   - IP-CIDR,195.191.74.0/23,no-resolve
   - IP-CIDR,195.2.234.0/24,no-resolve
-  - IP-CIDR,195.2.250.0/24,no-resolve
+  - IP-CIDR,195.2.250.0/23,no-resolve
   - IP-CIDR,195.20.136.0/24,no-resolve
   - IP-CIDR,195.200.76.0/23,no-resolve
   - IP-CIDR,195.211.44.0/22,no-resolve
@@ -1815,6 +1815,7 @@ payload:
   - IP-CIDR,93.119.32.0/19,no-resolve
   - IP-CIDR,93.119.64.0/19,no-resolve
   - IP-CIDR,93.126.0.0/18,no-resolve
+  - IP-CIDR,93.187.70.0/24,no-resolve
   - IP-CIDR,93.190.24.0/21,no-resolve
   - IP-CIDR,93.88.64.0/21,no-resolve
   - IP-CIDR,93.88.72.0/23,no-resolve
@@ -2167,6 +2168,7 @@ payload:
   - IP-CIDR6,2a0a:32c0::/32,no-resolve
   - IP-CIDR6,2a0a:3c40::/29,no-resolve
   - IP-CIDR6,2a0a:40c0::/29,no-resolve
+  - IP-CIDR6,2a0a:4100::/29,no-resolve
   - IP-CIDR6,2a0a:46c0::/29,no-resolve
   - IP-CIDR6,2a0a:480::/29,no-resolve
   - IP-CIDR6,2a0a:4b80::/29,no-resolve

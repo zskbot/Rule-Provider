@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: PR
 # 波多黎各（Puerto Rico）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 427 条（IPv4: 353 / IPv6: 74）
+# 规则统计: 共 429 条（IPv4: 354 / IPv6: 75）
 # ============================================================
 payload:
   - IP-CIDR,103.44.72.0/22,no-resolve
@@ -178,7 +178,7 @@ payload:
   - IP-CIDR,198.52.240.0/22,no-resolve
   - IP-CIDR,198.55.16.0/21,no-resolve
   - IP-CIDR,198.55.24.0/23,no-resolve
-  - IP-CIDR,199.116.62.0/23,no-resolve
+  - IP-CIDR,199.116.56.0/21,no-resolve
   - IP-CIDR,199.119.248.0/22,no-resolve
   - IP-CIDR,199.193.160.0/22,no-resolve
   - IP-CIDR,199.193.240.0/22,no-resolve
@@ -356,6 +356,7 @@ payload:
   - IP-CIDR,72.46.156.0/22,no-resolve
   - IP-CIDR,72.50.0.0/17,no-resolve
   - IP-CIDR,74.119.24.0/22,no-resolve
+  - IP-CIDR,74.120.24.0/21,no-resolve
   - IP-CIDR,74.85.156.0/23,no-resolve
   - IP-CIDR,76.72.240.0/20,no-resolve
   - IP-CIDR,76.76.192.0/20,no-resolve
@@ -382,6 +383,7 @@ payload:
   - IP-CIDR6,2602:fdfb::/36,no-resolve
   - IP-CIDR6,2602:fe09::/36,no-resolve
   - IP-CIDR6,2602:ff56::/36,no-resolve
+  - IP-CIDR6,2602:ffe7::/36,no-resolve
   - IP-CIDR6,2604:1400::/32,no-resolve
   - IP-CIDR6,2604:17e0::/32,no-resolve
   - IP-CIDR6,2604:19a0::/32,no-resolve

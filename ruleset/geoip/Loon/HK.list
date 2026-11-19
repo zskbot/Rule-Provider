@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: HK
 # 中国香港（Hong Kong）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 9548 条（IPv4: 8049 / IPv6: 1499）
+# 规则统计: 共 9550 条（IPv4: 8051 / IPv6: 1499）
 # ============================================================
 IP-CIDR,1.178.32.0/19,no-resolve
 IP-CIDR,1.32.192.0/21,no-resolve
@@ -4402,6 +4402,8 @@ IP-CIDR,190.92.252.0/22,no-resolve
 IP-CIDR,191.1.0.0/16,no-resolve
 IP-CIDR,191.124.0.0/16,no-resolve
 IP-CIDR,191.133.0.0/16,no-resolve
+IP-CIDR,191.141.0.0/16,no-resolve
+IP-CIDR,191.142.0.0/15,no-resolve
 IP-CIDR,191.214.0.0/16,no-resolve
 IP-CIDR,191.217.64.0/20,no-resolve
 IP-CIDR,191.218.192.0/18,no-resolve

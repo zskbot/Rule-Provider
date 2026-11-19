@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: DE
 # 德国（Germany）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 14731 条（IPv4: 10778 / IPv6: 3953）
 # ============================================================
@@ -2653,7 +2653,6 @@ IP-CIDR,185.238.24.0/22,no-resolve
 IP-CIDR,185.238.252.0/22,no-resolve
 IP-CIDR,185.238.80.0/22,no-resolve
 IP-CIDR,185.239.148.0/22,no-resolve
-IP-CIDR,185.239.20.0/22,no-resolve
 IP-CIDR,185.239.208.0/21,no-resolve
 IP-CIDR,185.239.236.0/22,no-resolve
 IP-CIDR,185.239.64.0/22,no-resolve
@@ -5177,7 +5176,7 @@ IP-CIDR,194.153.114.0/24,no-resolve
 IP-CIDR,194.153.146.0/23,no-resolve
 IP-CIDR,194.153.150.0/23,no-resolve
 IP-CIDR,194.153.152.0/25,no-resolve
-IP-CIDR,194.153.158.0/25,no-resolve
+IP-CIDR,194.153.158.64/26,no-resolve
 IP-CIDR,194.153.159.192/26,no-resolve
 IP-CIDR,194.153.160.0/21,no-resolve
 IP-CIDR,194.153.186.0/24,no-resolve
@@ -9846,6 +9845,7 @@ IP-CIDR,89.41.34.0/23,no-resolve
 IP-CIDR,89.42.30.0/24,no-resolve
 IP-CIDR,89.42.88.0/24,no-resolve
 IP-CIDR,89.43.120.0/21,no-resolve
+IP-CIDR,89.44.136.0/24,no-resolve
 IP-CIDR,89.44.8.0/24,no-resolve
 IP-CIDR,89.45.244.0/24,no-resolve
 IP-CIDR,89.45.35.0/24,no-resolve
@@ -10484,7 +10484,7 @@ IP-CIDR,93.177.64.0/22,no-resolve
 IP-CIDR,93.177.96.0/22,no-resolve
 IP-CIDR,93.180.152.0/21,no-resolve
 IP-CIDR,93.180.212.0/22,no-resolve
-IP-CIDR,93.180.240.0/20,no-resolve
+IP-CIDR,93.180.240.0/21,no-resolve
 IP-CIDR,93.180.72.0/21,no-resolve
 IP-CIDR,93.181.0.0/18,no-resolve
 IP-CIDR,93.184.128.0/20,no-resolve
@@ -10911,6 +10911,7 @@ IP-CIDR6,2001:678:13ec::/48,no-resolve
 IP-CIDR6,2001:678:13f0::/48,no-resolve
 IP-CIDR6,2001:678:13f4::/48,no-resolve
 IP-CIDR6,2001:678:140::/48,no-resolve
+IP-CIDR6,2001:678:140c::/48,no-resolve
 IP-CIDR6,2001:678:154::/48,no-resolve
 IP-CIDR6,2001:678:168::/48,no-resolve
 IP-CIDR6,2001:678:180::/48,no-resolve
@@ -11632,7 +11633,6 @@ IP-CIDR6,2001:7f8:51::/48,no-resolve
 IP-CIDR6,2001:7f8:56::/48,no-resolve
 IP-CIDR6,2001:7f8:73::/48,no-resolve
 IP-CIDR6,2001:7f8:79::/48,no-resolve
-IP-CIDR6,2001:7f8:89::/48,no-resolve
 IP-CIDR6,2001:7f8:8::/48,no-resolve
 IP-CIDR6,2001:7f8:92::/48,no-resolve
 IP-CIDR6,2001:7f8:95::/48,no-resolve

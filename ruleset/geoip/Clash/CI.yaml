@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CI
 # 科特迪瓦（Côte d'Ivoire）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 296 条（IPv4: 263 / IPv6: 33）
+# 规则统计: 共 298 条（IPv4: 264 / IPv6: 34）
 # ============================================================
 payload:
   - IP-CIDR,102.130.224.0/21,no-resolve
@@ -14,6 +14,7 @@ payload:
   - IP-CIDR,102.142.0.0/17,no-resolve
   - IP-CIDR,102.142.128.0/18,no-resolve
   - IP-CIDR,102.142.192.0/18,no-resolve
+  - IP-CIDR,102.200.15.0/24,no-resolve
   - IP-CIDR,102.200.216.0/22,no-resolve
   - IP-CIDR,102.201.192.0/23,no-resolve
   - IP-CIDR,102.201.210.0/24,no-resolve
@@ -275,6 +276,7 @@ payload:
   - IP-CIDR6,2001:43f8:940::/47,no-resolve
   - IP-CIDR6,2001:43f8:b20::/48,no-resolve
   - IP-CIDR6,2001:43f8:b70::/48,no-resolve
+  - IP-CIDR6,2001:43fe:9800::/48,no-resolve
   - IP-CIDR6,2001:43ff:a000::/48,no-resolve
   - IP-CIDR6,2a01:c9c0:c014::/48,no-resolve
   - IP-CIDR6,2a0b:2080::/32,no-resolve

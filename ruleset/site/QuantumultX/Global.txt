@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 181948 条（域名: 181834 / 精确域名: 103 / 正则: 11）
+# 规则统计: 共 181969 条（域名: 181855 / 精确域名: 103 / 正则: 11）
 # ============================================================
 host-suffix, 0000000.live
 host-suffix, 000h555.com
@@ -730,6 +730,7 @@ host-suffix, 1702.info
 host-suffix, 17173.com
 host-suffix, 17173cdn.com
 host-suffix, 171gifs.com
+host-suffix, 172.com
 host-suffix, 172megasensa.com
 host-suffix, 172mix.com
 host-suffix, 1766hy.com
@@ -1064,6 +1065,7 @@ host-suffix, 1ppt.com
 host-suffix, 1pso777jaya.com
 host-suffix, 1publicagent.com
 host-suffix, 1qa3kt-1q.myshopify.com
+host-suffix, 1qianbao.com
 host-suffix, 1qsp5e.com
 host-suffix, 1ramadan.com
 host-suffix, 1redbet132.com
@@ -1283,6 +1285,8 @@ host-suffix, 1xwiin.com
 host-suffix, 1xxbd.live
 host-suffix, 1xxet.com
 host-suffix, 1xxx.fans
+host-suffix, 1y.com
+host-suffix, 1ycdn.com
 host-suffix, 1zhe.com
 host-suffix, 1zk79e.com
 host-suffix, 1zkm1ngd.com
@@ -2523,6 +2527,7 @@ host-suffix, 3zfilm-hd.xyz
 host-suffix, 3ziiz.com
 host-suffix, 4-4-2.com
 host-suffix, 4.net
+host-suffix, 4008000000.com
 host-suffix, 4008117117.com
 host-suffix, 400mov.com
 host-suffix, 400nudes.com
@@ -9313,6 +9318,7 @@ host-suffix, ajiriwa.net
 host-suffix, ajjans-hub.pages.dev
 host-suffix, ajjexx.com
 host-suffix, ajkerkaj24.com
+host-suffix, ajkimg.com
 host-suffix, ajm22.tech
 host-suffix, ajm7899.net
 host-suffix, ajmadison.com
@@ -19343,6 +19349,8 @@ host-suffix, bairesdev.com
 host-suffix, bairesgirls.net
 host-suffix, bairessecreta.com
 host-suffix, baisal.com
+host-suffix, baishan.com
+host-suffix, baishancloud.com
 host-suffix, baishinetwork.com
 host-suffix, baitalasmak.com
 host-suffix, baitalnokhada.com
@@ -92386,6 +92394,7 @@ host-suffix, lenovo.net
 host-suffix, lenovocloudos.com
 host-suffix, lenovoeservice.com
 host-suffix, lenovofile.com
+host-suffix, lenovofuturecenter.com
 host-suffix, lenovogame.com
 host-suffix, lenovoimage.com
 host-suffix, lenovomm.com
@@ -96189,6 +96198,7 @@ host-suffix, luisconcreteondemand.com
 host-suffix, luisjfortuna.com
 host-suffix, luizalabs.com
 host-suffix, lujakunto.com
+host-suffix, lujincaifu.com
 host-suffix, lujohotel.com
 host-suffix, luk666v8.com
 host-suffix, luka789.net
@@ -104154,6 +104164,7 @@ host-suffix, mingtsann.com
 host-suffix, mingtuiw.com
 host-suffix, mingwatchchannel.com
 host-suffix, mingxuan.store
+host-suffix, mingyuanfund.com
 host-suffix, mingyuanyun.com
 host-suffix, mingzw.net
 host-suffix, minha-tela.com
@@ -119188,6 +119199,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com
 host-suffix, oss-cn-shenzhen.aliyuncs.com
 host-suffix, oss-cn-wulanchabu.aliyuncs.com
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com
+host-suffix, oss-enet.aliyuncs.com
 host-suffix, oss-eu-central-1.aliyuncs.com
 host-suffix, oss-eu-west-1.aliyuncs.com
 host-suffix, oss-me-east-1.aliyuncs.com
@@ -119998,6 +120010,7 @@ host-suffix, pacehospital.com
 host-suffix, pacehubway.com
 host-suffix, pacermonitor.com
 host-suffix, pacesell.com
+host-suffix, pacfc.com
 host-suffix, pachabol.com
 host-suffix, pachamamaradio.org
 host-suffix, pachca.com
@@ -130606,6 +130619,7 @@ host-suffix, qpeio451.com
 host-suffix, qpiato.com
 host-suffix, qplmfg.xyz
 host-suffix, qplus.club
+host-suffix, qpmcn.com
 host-suffix, qporno.xxx
 host-suffix, qport.app
 host-suffix, qppwl.top
@@ -155408,6 +155422,7 @@ host-suffix, tencent-gcloud.com
 host-suffix, tencent.com
 host-suffix, tencent.design
 host-suffix, tencent.net
+host-suffix, tencentads.com
 host-suffix, tencentapps.com
 host-suffix, tencentbyod.com
 host-suffix, tencentcdb.com
@@ -161785,6 +161800,7 @@ host-suffix, troweprice.com
 host-suffix, troypoint.com
 host-suffix, troysjersey.com
 host-suffix, trpaga.com
+host-suffix, trpcdn.com
 host-suffix, trpcdn.net
 host-suffix, trpgsession.com
 host-suffix, trqtj.buzz
@@ -178552,6 +178568,7 @@ host-suffix, yinxiang.com
 host-suffix, yinyuetai.com
 host-suffix, yinzhaowang.com
 host-suffix, yiotischristou.com
+host-suffix, yiqianbao.com
 host-suffix, yiqifa.com
 host-suffix, yiqifa.org
 host-suffix, yirantas.com
@@ -179131,6 +179148,8 @@ host-suffix, yptlpgsrmg.net
 host-suffix, yq3wlu.com
 host-suffix, yq8mgd5u23.com
 host-suffix, yqb.com
+host-suffix, yqbimg.net
+host-suffix, yqbmall.com
 host-suffix, yqdh.store
 host-suffix, yqdh.website
 host-suffix, yqhqbammg.com
@@ -180562,6 +180581,8 @@ host-suffix, zhangyuecdn.com
 host-suffix, zhanzhang.net
 host-suffix, zhaodanji.com
 host-suffix, zhaokao.net
+host-suffix, zhaoliangji.com
+host-suffix, zhaoliangjipc.com
 host-suffix, zhaomishijie.com
 host-suffix, zhaomu.com
 host-suffix, zhaopin.com

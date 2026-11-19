@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: GB
 # 英国（United Kingdom）
-# 数据日期: 2026-11-16
+# 数据日期: 2026-11-19
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 20394 条（IPv4: 16800 / IPv6: 3594）
+# 规则统计: 共 20393 条（IPv4: 16799 / IPv6: 3594）
 # ============================================================
 payload:
   - IP-CIDR,1.186.0.0/16,no-resolve
@@ -7290,7 +7290,6 @@ payload:
   - IP-CIDR,192.82.187.0/24,no-resolve
   - IP-CIDR,192.83.102.0/24,no-resolve
   - IP-CIDR,192.83.200.0/24,no-resolve
-  - IP-CIDR,192.83.202.0/24,no-resolve
   - IP-CIDR,192.84.173.0/24,no-resolve
   - IP-CIDR,192.84.212.0/24,no-resolve
   - IP-CIDR,192.84.5.0/24,no-resolve
