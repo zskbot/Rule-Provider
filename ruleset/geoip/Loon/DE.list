@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: DE
 # 德国（Germany）
-# 数据日期: 2026-11-19
+# 数据日期: 2026-11-20
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 14731 条（IPv4: 10778 / IPv6: 3953）
+# 规则统计: 共 14730 条（IPv4: 10778 / IPv6: 3952）
 # ============================================================
 IP-CIDR,100.42.176.0/20,no-resolve
 IP-CIDR,102.222.214.0/24,no-resolve
@@ -12612,7 +12612,6 @@ IP-CIDR6,2a04:ea00::/32,no-resolve
 IP-CIDR6,2a04:ea40::/29,no-resolve
 IP-CIDR6,2a04:eac0::/29,no-resolve
 IP-CIDR6,2a04:ec80::/29,no-resolve
-IP-CIDR6,2a04:f500::/32,no-resolve
 IP-CIDR6,2a04:f880::/29,no-resolve
 IP-CIDR6,2a04:f8c0::/29,no-resolve
 IP-CIDR6,2a04:f900::/29,no-resolve

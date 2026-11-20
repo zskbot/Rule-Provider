@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: RU
 # 俄罗斯（Russia）
-# 数据日期: 2026-11-19
+# 数据日期: 2026-11-20
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 13182 条（IPv4: 10752 / IPv6: 2430）
+# 规则统计: 共 13183 条（IPv4: 10752 / IPv6: 2431）
 # ============================================================
 payload:
   - IP-CIDR,103.101.85.0/24,no-resolve
@@ -12426,6 +12426,7 @@ payload:
   - IP-CIDR6,2a0d:5ec0::/29,no-resolve
   - IP-CIDR6,2a0d:60c0::/29,no-resolve
   - IP-CIDR6,2a0d:65c0::/29,no-resolve
+  - IP-CIDR6,2a0d:67c0::/29,no-resolve
   - IP-CIDR6,2a0d:6900::/29,no-resolve
   - IP-CIDR6,2a0d:6c0::/29,no-resolve
   - IP-CIDR6,2a0d:6d40::/29,no-resolve
