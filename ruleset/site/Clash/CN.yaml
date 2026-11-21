@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-11-20
+# 数据日期: 2026-11-21
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10523 条（域名: 10505 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10527 条（域名: 10509 / 精确域名: 15 / 正则: 3）
 # ============================================================
 payload:
   - DOMAIN-SUFFIX,00cdn.com
@@ -3181,6 +3181,7 @@ payload:
   - DOMAIN-SUFFIX,eceshi.com
   - DOMAIN-SUFFIX,echargenet.com
   - DOMAIN-SUFFIX,echemi.com
+  - DOMAIN-SUFFIX,echooai.com
   - DOMAIN-SUFFIX,ecitic.com
   - DOMAIN-SUFFIX,ecjobhome.com
   - DOMAIN-SUFFIX,eckwai.com
@@ -3402,7 +3403,9 @@ payload:
   - DOMAIN-SUFFIX,favonis.cloud
   - DOMAIN-SUFFIX,favonis.com
   - DOMAIN-SUFFIX,favonis.space
+  - DOMAIN-SUFFIX,faw-vw.com
   - DOMAIN-SUFFIX,faxingbao.com
+  - DOMAIN-SUFFIX,fazhipro.com
   - DOMAIN-SUFFIX,fbank.com
   - DOMAIN-SUFFIX,fbousgsz.cc
   - DOMAIN-SUFFIX,fc2.com
@@ -7553,6 +7556,7 @@ payload:
   - DOMAIN-SUFFIX,rzrc114.com
   - DOMAIN-SUFFIX,s2bdiy.com
   - DOMAIN-SUFFIX,s61m.com
+  - DOMAIN-SUFFIX,saasfz.com
   - DOMAIN-SUFFIX,saasops.tech
   - DOMAIN-SUFFIX,saayaa.com
   - DOMAIN-SUFFIX,sadidc.com

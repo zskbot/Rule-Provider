@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-11-20
+# 数据日期: 2026-11-21
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 181969 条（域名: 181855 / 精确域名: 103 / 正则: 11）
+# 规则统计: 共 181846 条（域名: 181732 / 精确域名: 103 / 正则: 11）
 # ============================================================
 host-suffix, 0000000.live
 host-suffix, 000h555.com
@@ -2537,7 +2537,6 @@ host-suffix, 40adsmodal777.info
 host-suffix, 40dash.net
 host-suffix, 40formacion.net
 host-suffix, 40oklaro.com
-host-suffix, 40shopping.com
 host-suffix, 40ton.net
 host-suffix, 40win25.com
 host-suffix, 411quest.com
@@ -5633,7 +5632,6 @@ host-suffix, aamgame.net
 host-suffix, aamm24.win
 host-suffix, aamotors.com
 host-suffix, aamsmart.com
-host-suffix, aanaan.com
 host-suffix, aanass.net
 host-suffix, aanhme.com
 host-suffix, aao.org
@@ -7474,7 +7472,6 @@ host-suffix, ae-rus.net
 host-suffix, ae.com
 host-suffix, ae66611.com
 host-suffix, ae8881aaa.com
-host-suffix, aeasyshop.com
 host-suffix, aeaweb.org
 host-suffix, aebn.com
 host-suffix, aebn.net
@@ -9112,7 +9109,6 @@ host-suffix, airlocal.com
 host-suffix, airltc.com
 host-suffix, airmauritius.com
 host-suffix, airmax.net
-host-suffix, airmay.com
 host-suffix, airmeetsea.com
 host-suffix, airmess-logistics.com
 host-suffix, airmoana.com
@@ -9341,7 +9337,6 @@ host-suffix, ajototopus.com
 host-suffix, ajptour.com
 host-suffix, ajsilvabento.com
 host-suffix, ajsrp.com
-host-suffix, ajtalk.com
 host-suffix, ajtw.net
 host-suffix, ajudaauto.com
 host-suffix, ajudateocratica.com
@@ -13346,7 +13341,6 @@ host-suffix, annonces-automobile.com
 host-suffix, annonces-gratuites.com
 host-suffix, annonces-tunisie.net
 host-suffix, annoncesbateau.com
-host-suffix, annstores.net
 host-suffix, annsummers.com
 host-suffix, annsvg.com
 host-suffix, anntaylor.com
@@ -13690,7 +13684,6 @@ host-suffix, aogc-groupe.com
 host-suffix, aogc.app
 host-suffix, aohostels.com
 host-suffix, aokranj.com
-host-suffix, aokwholesale.net
 host-suffix, aokyngxchu.com
 host-suffix, aol.com
 host-suffix, aolleadership.com
@@ -19172,7 +19165,6 @@ host-suffix, bafule.click
 host-suffix, bafurimi.com
 host-suffix, bafutik.online
 host-suffix, bafuzel.online
-host-suffix, bag-glasses1.com
 host-suffix, bag.work
 host-suffix, bagalier.com
 host-suffix, bagallery.com
@@ -19779,7 +19771,6 @@ host-suffix, bandbireland.com
 host-suffix, bandcamp.com
 host-suffix, bandelta.com
 host-suffix, bandfmenu.com
-host-suffix, bandgirlz.com
 host-suffix, bandhigga.com
 host-suffix, bandicam.com
 host-suffix, bandini-pharma.com
@@ -20647,7 +20638,6 @@ host-suffix, bawq.com
 host-suffix, baxikrt.xyz
 host-suffix, baxmovie.com
 host-suffix, baxqilo.icu
-host-suffix, baxsound.com
 host-suffix, baxter.com
 host-suffix, baxthifududeye.online
 host-suffix, bay.porn
@@ -20813,7 +20803,6 @@ host-suffix, bbddh.com
 host-suffix, bbdhaka.com
 host-suffix, bbegmedia.com
 host-suffix, bbelearning.com
-host-suffix, bbestmall.com
 host-suffix, bbf.com
 host-suffix, bbfasting.com
 host-suffix, bbfstoto.bet
@@ -21766,7 +21755,6 @@ host-suffix, beget.com
 host-suffix, beget.tech
 host-suffix, beggshoes.com
 host-suffix, beggxco.com
-host-suffix, begin-trade.com
 host-suffix, begin.watch
 host-suffix, beginrestaurante.com
 host-suffix, begoldenlabel.com
@@ -23898,7 +23886,6 @@ host-suffix, biiconline.com
 host-suffix, biig-bang-dewali.space
 host-suffix, biiiiii.sbs
 host-suffix, biisterlngdates.com
-host-suffix, biitii.com
 host-suffix, bijakbuatduit.com
 host-suffix, bijdeles.online
 host-suffix, bijelatehnika.com
@@ -25207,7 +25194,6 @@ host-suffix, bloomingdales.com
 host-suffix, bloomjewelleryshop.com
 host-suffix, bloomlibrary.org
 host-suffix, bloommauritius.com
-host-suffix, bloommicroventures.com
 host-suffix, bloomore.shop
 host-suffix, bloomsandbutterflies.com
 host-suffix, bloomsbury.com
@@ -26381,7 +26367,6 @@ host-suffix, booknik.online
 host-suffix, booknode.com
 host-suffix, booknook.store
 host-suffix, bookofmatches.com
-host-suffix, bookonsky.net
 host-suffix, bookoutlet.com
 host-suffix, bookreadfree.com
 host-suffix, books-lib.com
@@ -26646,7 +26631,6 @@ host-suffix, boss88.digital
 host-suffix, boss96.asia
 host-suffix, boss96c.com
 host-suffix, boss989.fun
-host-suffix, bossae.com
 host-suffix, bossapp.shop
 host-suffix, bossard.com
 host-suffix, bossbet24.com
@@ -27108,9 +27092,7 @@ host-suffix, brandbergwllodge.com
 host-suffix, brandbigmall.com
 host-suffix, brandcard.online
 host-suffix, brandcrowd.com
-host-suffix, brandeasygo.com
 host-suffix, brandedcambosupply.com
-host-suffix, brandelectronic.com
 host-suffix, brandetoo.com
 host-suffix, brandfugetsu.com
 host-suffix, brandgalery.com
@@ -27126,9 +27108,7 @@ host-suffix, brandmaall.com
 host-suffix, brandonexalt.com
 host-suffix, brandoshop.store
 host-suffix, brandpay168.com
-host-suffix, brandproducts1688.com
 host-suffix, brandprotoolscy.com
-host-suffix, brands098.com
 host-suffix, brandsboutiqu.com
 host-suffix, brandsforless.com
 host-suffix, brandshelter.com
@@ -28431,7 +28411,6 @@ host-suffix, businesspay.pro
 host-suffix, businesssuppliers.shop
 host-suffix, businessuiteonline.com
 host-suffix, businesswebmada.com
-host-suffix, businesswebwise.com
 host-suffix, businory.com
 host-suffix, businserve.com
 host-suffix, busk.town
@@ -28528,7 +28507,6 @@ host-suffix, buxgalter.academy
 host-suffix, buy-belize.com
 host-suffix, buy-fixed.com
 host-suffix, buy-fixedmatch.com
-host-suffix, buy-from-shanghai.com
 host-suffix, buy-in.info
 host-suffix, buy-libya.store
 host-suffix, buy2z.com
@@ -28600,7 +28578,6 @@ host-suffix, buysellclub.org
 host-suffix, buysellcyprus.com
 host-suffix, buysellorrent.com
 host-suffix, buysellvouchers.com
-host-suffix, buyshoponly.com
 host-suffix, buyspeed.com
 host-suffix, buytonow.com
 host-suffix, buyttrix.com
@@ -28613,7 +28590,6 @@ host-suffix, buzorestaurant.com
 host-suffix, buzup.app
 host-suffix, buzzaffair.com
 host-suffix, buzzarab.com
-host-suffix, buzzardflapper.com
 host-suffix, buzzbingo.com
 host-suffix, buzzbound-marketing.com
 host-suffix, buzzcast.com
@@ -33271,8 +33247,6 @@ host-suffix, cheapflights.com
 host-suffix, cheapflightsfares.com
 host-suffix, cheapheadphonesland.com
 host-suffix, cheapheadphonessale.com
-host-suffix, cheapheadsetmall.com
-host-suffix, cheapheadsetshop.com
 host-suffix, cheapmandu.com
 host-suffix, cheapmonsterbeatsbydrdre.com
 host-suffix, cheapmonsterbeatsheadsets.com
@@ -33283,9 +33257,7 @@ host-suffix, cheapoair.com
 host-suffix, cheapost.com
 host-suffix, cheapsalemonster.com
 host-suffix, cheapsalespty.com
-host-suffix, cheapshoesvip.com
 host-suffix, cheaptickets.com
-host-suffix, cheapwireless04.com
 host-suffix, cheapwirelessbeats.com
 host-suffix, cheat-empire.com
 host-suffix, cheat-key.com
@@ -33653,7 +33625,6 @@ host-suffix, chifa.plus
 host-suffix, chiggywiggy.com
 host-suffix, chigostv.com
 host-suffix, chigua.com
-host-suffix, chihair-straightener.com
 host-suffix, chihealth.com
 host-suffix, chihuahua-sim.pages.dev
 host-suffix, chiikawa-pocket-goods-store.com
@@ -33766,7 +33737,6 @@ host-suffix, chinacharityfederation.org
 host-suffix, chinachickenfarm.com
 host-suffix, chinachugui.com
 host-suffix, chinacityhn.com
-host-suffix, chinaclothesstore.com
 host-suffix, chinacow.com
 host-suffix, chinadepot-gt.com
 host-suffix, chinadepotsv.com
@@ -34295,7 +34265,6 @@ host-suffix, ciaotickets.com
 host-suffix, ciaracorkhome.com
 host-suffix, ciarb.org
 host-suffix, ciatlas.com
-host-suffix, ciattackers.com
 host-suffix, ciaud.org
 host-suffix, ciazhan.com
 host-suffix, cibaonoticias.com
@@ -36142,7 +36111,6 @@ host-suffix, cmgcontainers.net
 host-suffix, cmgo2358.com
 host-suffix, cmgroup-ziko.com
 host-suffix, cmgtz.buzz
-host-suffix, cmhalq.com
 host-suffix, cmi.edu
 host-suffix, cmicapm.com
 host-suffix, cmicrostack.com
@@ -36314,7 +36282,6 @@ host-suffix, cnrfconnectors.com
 host-suffix, cnria.org
 host-suffix, cnrrngkwk.com
 host-suffix, cnsciedu.com
-host-suffix, cnshopin.com
 host-suffix, cnsimg.net
 host-suffix, cnstock.com
 host-suffix, cnsuning.com
@@ -38871,7 +38838,6 @@ host-suffix, cqaiapp.com
 host-suffix, cqbys.com
 host-suffix, cqcb.com
 host-suffix, cqccn.com
-host-suffix, cqcorea.com
 host-suffix, cqdcg.com
 host-suffix, cqfdlima.org
 host-suffix, cqi8zqa.shop
@@ -40034,7 +40000,6 @@ host-suffix, cuevanaserie.pro
 host-suffix, cuevanatv.vip
 host-suffix, cuevanaz.biz
 host-suffix, cufacademiccenter.com
-host-suffix, cuffiesaldi.com
 host-suffix, cufryna.com
 host-suffix, cuglobalshop.com
 host-suffix, cugranca.com
@@ -41282,7 +41247,6 @@ host-suffix, dandemutande.africa
 host-suffix, dandwiki.com
 host-suffix, dandynestmi.site
 host-suffix, dane-news.net
-host-suffix, danemarket.com
 host-suffix, daneshfarm.com
 host-suffix, daneshjooyar.com
 host-suffix, daneshkar.net
@@ -43393,7 +43357,6 @@ host-suffix, detailingbg.com
 host-suffix, detailnervous.xyz
 host-suffix, detailspanama.com
 host-suffix, detainedrvk.com
-host-suffix, detaliczny.com
 host-suffix, detaljno.org
 host-suffix, detallespeludos.com
 host-suffix, detapten.site
@@ -47430,7 +47393,6 @@ host-suffix, dtpfzknfxr.com
 host-suffix, dtpmundo.com
 host-suffix, dtrip.tech
 host-suffix, dts-demenagement.com
-host-suffix, dtsell.com
 host-suffix, dtspharmacybg.com
 host-suffix, dtstatic.com
 host-suffix, dttasca.com
@@ -48447,7 +48409,6 @@ host-suffix, earnwavesolution.com
 host-suffix, earnwithc99.com
 host-suffix, earnzop.com
 host-suffix, earphoneman.com
-host-suffix, earphonescheapest.com
 host-suffix, earpod.net
 host-suffix, earringsatisfiedsplice.com
 host-suffix, earsun888.com
@@ -48914,7 +48875,6 @@ host-suffix, ebuteli.org
 host-suffix, ebuy7.com
 host-suffix, ebuyclub.com
 host-suffix, ebuyer.com
-host-suffix, ebuyheadphones.com
 host-suffix, ebuyseller.com
 host-suffix, ebuzz.world
 host-suffix, ec
@@ -49011,6 +48971,7 @@ host-suffix, echomachinery.com
 host-suffix, echomusic.app
 host-suffix, echomusic.fun
 host-suffix, echomusicpg.com
+host-suffix, echooai.com
 host-suffix, echoparcel.com
 host-suffix, echopark.com
 host-suffix, echoperky.shop
@@ -53506,7 +53467,6 @@ host-suffix, eth667.com
 host-suffix, ethan.bible
 host-suffix, ethbspe.org
 host-suffix, ethdigitalcampus.com
-host-suffix, etheadphones.com
 host-suffix, ethenika.com
 host-suffix, etherealgames.com
 host-suffix, ethereumfixedmatch.com
@@ -55857,7 +55817,6 @@ host-suffix, famitsu.com
 host-suffix, famoid.com
 host-suffix, famosas.lat
 host-suffix, famosas.vip
-host-suffix, famosascalvas.com
 host-suffix, famosaslat.com
 host-suffix, famosasnuas.blog
 host-suffix, famosos-nus-portal.com
@@ -56581,6 +56540,7 @@ host-suffix, favstor.com
 host-suffix, favureko.click
 host-suffix, favvdz.org
 host-suffix, favwr60754.com
+host-suffix, faw-vw.com
 host-suffix, faw.cymru
 host-suffix, faw99bet.com
 host-suffix, fawanews.media
@@ -56621,6 +56581,7 @@ host-suffix, fazakafrica.com
 host-suffix, fazeliacademy.com
 host-suffix, fazer.com
 host-suffix, fazercards.com
+host-suffix, fazhipro.com
 host-suffix, fazicompany.com
 host-suffix, fazilettakvimi.com
 host-suffix, fazrop.com
@@ -60632,7 +60593,6 @@ host-suffix, fredhutch.org
 host-suffix, fredolsencruises.com
 host-suffix, fredperry.com
 host-suffix, fredsgarageclub.com
-host-suffix, free-aa.com
 host-suffix, free-africa.shop
 host-suffix, free-anatomy-quiz.com
 host-suffix, free-bonk.com
@@ -60652,7 +60612,6 @@ host-suffix, free-now.com
 host-suffix, free-power-point-templates.com
 host-suffix, free-qr.com
 host-suffix, free-scores.com
-host-suffix, free-sns.com
 host-suffix, free-spider-solitaire.com
 host-suffix, free-stock-music.com
 host-suffix, free-tarot-reading.net
@@ -61082,7 +61041,6 @@ host-suffix, friopar.com
 host-suffix, frip3k.net
 host-suffix, fripick.com
 host-suffix, frisbii.com
-host-suffix, frishoes.com
 host-suffix, frisshir24.com
 host-suffix, fristads.com
 host-suffix, fristtopup.com
@@ -66015,7 +65973,6 @@ host-suffix, gmlifeshop.shop
 host-suffix, gmm-tv.com
 host-suffix, gmmez.shop
 host-suffix, gmmsj.com
-host-suffix, gmnetworks.net
 host-suffix, gmoby.com
 host-suffix, gmodules.com
 host-suffix, gmoj.net
@@ -66927,7 +66884,6 @@ host-suffix, goodq.top
 host-suffix, goodreads.com
 host-suffix, goodriddancegirl.com
 host-suffix, goodrx.com
-host-suffix, goodsdunk.net
 host-suffix, goodsflow.com
 host-suffix, goodshoplaos.com
 host-suffix, goodshort.com
@@ -71007,23 +70963,15 @@ host-suffix, headlightmag.com
 host-suffix, headlinelogic.com
 host-suffix, headlinerentals.com
 host-suffix, headout.com
-host-suffix, headphonepubs.com
 host-suffix, headphonerev.com
-host-suffix, headphones-cool.com
 host-suffix, headphones-dre.com
 host-suffix, headphones-outlet-online.com
 host-suffix, headphonesbeatsaudio.com
 host-suffix, headphonesbeatsbydre.com
 host-suffix, headphoneses.com
-host-suffix, headphoneshome.com
-host-suffix, headphoneshotsales.com
-host-suffix, headphonesol.com
 host-suffix, headphonesretailer.com
-host-suffix, headphonessupply.com
 host-suffix, headphonesty.com
 host-suffix, headphonetic.com
-host-suffix, headphonezip.com
-host-suffix, headset987.com
 host-suffix, headshotphotographerknoxville.com
 host-suffix, headstart.gov
 host-suffix, headwayinstitute.org
@@ -72507,7 +72455,6 @@ host-suffix, hiopos.com
 host-suffix, hiove.com
 host-suffix, hip.porn
 host-suffix, hip2save.com
-host-suffix, hipaa6020.com
 host-suffix, hipay.com
 host-suffix, hiperatos.com
 host-suffix, hipercalzado.com
@@ -72557,7 +72504,6 @@ host-suffix, hippoobox.com
 host-suffix, hiproace.com
 host-suffix, hipstrumentals.com
 host-suffix, hiptechnologie.online
-host-suffix, hipzoom.net
 host-suffix, hirak-press.info
 host-suffix, hiratrading.app
 host-suffix, hircasa.com
@@ -73450,7 +73396,6 @@ host-suffix, hon4u.com
 host-suffix, honarfardi.com
 host-suffix, honarmandshopping.com
 host-suffix, honaryab.top
-host-suffix, honawalaan.com
 host-suffix, honda-mideast.com
 host-suffix, honda-oman.com
 host-suffix, honda-tech.com
@@ -74116,7 +74061,6 @@ host-suffix, hotsprings-spa.com
 host-suffix, hotssul.com
 host-suffix, hotstar.com
 host-suffix, hott1075bermuda.com
-host-suffix, hottestheadphonesonline.com
 host-suffix, hottestpornx.com
 host-suffix, hottg.com
 host-suffix, hotti.com
@@ -74422,7 +74366,6 @@ host-suffix, hrproltd.com
 host-suffix, hrpsrl.com
 host-suffix, hrreypay.org
 host-suffix, hrs-boc.com
-host-suffix, hrsaz.com
 host-suffix, hrsecn.com
 host-suffix, hrsena.com
 host-suffix, hrskyline.com
@@ -76453,7 +76396,6 @@ host-suffix, igold24.com
 host-suffix, igoofish.com
 host-suffix, igoogle.com
 host-suffix, igorshoes.com
-host-suffix, igoshopping.net
 host-suffix, igowinsafe.com
 host-suffix, igp-web.com
 host-suffix, igp.com
@@ -76753,7 +76695,6 @@ host-suffix, ilkokulnotlari.com
 host-suffix, ilkunvent.com
 host-suffix, ill3.com
 host-suffix, illanificio.com
-host-suffix, illianacomputerrecycling.com
 host-suffix, illicitsv.com
 host-suffix, illicocash.com
 host-suffix, illinois.edu
@@ -77370,7 +77311,6 @@ host-suffix, inccrra.org
 host-suffix, incef-ccim.com
 host-suffix, incehesap.com
 host-suffix, incentivefund.org
-host-suffix, incentivetravelgifts.com
 host-suffix, incerpaz.com
 host-suffix, incest24.live
 host-suffix, incestik.baby
@@ -79064,7 +79004,6 @@ host-suffix, iphone5.com
 host-suffix, iphone5casescovers.com
 host-suffix, iphone5s5case.com
 host-suffix, iphone789.com
-host-suffix, iphonecase2013.com
 host-suffix, iphonecase5.com
 host-suffix, iphonecases100.com
 host-suffix, iphonecases5.com
@@ -79701,7 +79640,6 @@ host-suffix, islamic-relief.org
 host-suffix, islamicbankbd.com
 host-suffix, islamicbooksforfree.com
 host-suffix, islamicbulletin.org
-host-suffix, islamiccenterofnewlondon.com
 host-suffix, islamicfinder.org
 host-suffix, islamicity.org
 host-suffix, islamiclyrics.net
@@ -86635,7 +86573,6 @@ host-suffix, kickresume.com
 host-suffix, kickru.com
 host-suffix, kickscrew.com
 host-suffix, kickserv.com
-host-suffix, kickshatchannel.com
 host-suffix, kickskenya.com
 host-suffix, kickso.app
 host-suffix, kicksown.com
@@ -88462,7 +88399,6 @@ host-suffix, kopeda47nx.xyz
 host-suffix, kopekdunyasi.com
 host-suffix, koperfurniture.com
 host-suffix, koperilion-here.shop
-host-suffix, kopfhorergunstigshop.com
 host-suffix, kopflashsteals.com
 host-suffix, kopikren.fun
 host-suffix, kopikulim.shop
@@ -92045,7 +91981,6 @@ host-suffix, leeb-balkone.com
 host-suffix, leebet-oldzone2.com
 host-suffix, leebmann24.com
 host-suffix, leecooperbd.com
-host-suffix, leecountytimes.com
 host-suffix, leedsheritagetheatres.com
 host-suffix, leedsteachinghospitals.jobs
 host-suffix, leedstudent.com
@@ -92879,7 +92814,6 @@ host-suffix, lexpressiondz.com
 host-suffix, lexpressproperty.com
 host-suffix, lexscope.net
 host-suffix, lexthielen.com
-host-suffix, lexuemei.com
 host-suffix, lexulous.com
 host-suffix, lexus.com
 host-suffix, lexus100.com
@@ -96069,7 +96003,6 @@ host-suffix, luckygold22.xyz
 host-suffix, luckygoldbuyers.com
 host-suffix, luckyhand.live
 host-suffix, luckyhills2.com
-host-suffix, luckyissue.com
 host-suffix, luckyjackpot.info
 host-suffix, luckyking177.com
 host-suffix, luckykraaled.cyou
@@ -96804,7 +96737,6 @@ host-suffix, lyxurologia.com
 host-suffix, lyyastores.com
 host-suffix, lyzer.tech
 host-suffix, lyzjht.com
-host-suffix, lyzsxx.com
 host-suffix, lz-creations.com
 host-suffix, lz310.com
 host-suffix, lz39495.com
@@ -98004,7 +97936,6 @@ host-suffix, makecommerce.net
 host-suffix, makedonijafm.net
 host-suffix, makedonski.info
 host-suffix, makeenbooks.com
-host-suffix, makeeu.com
 host-suffix, makefet.com
 host-suffix, makeheadway.com
 host-suffix, makeitbrightchallenge.com
@@ -98271,7 +98202,6 @@ host-suffix, mallamaseps.com
 host-suffix, mallardbird66.com
 host-suffix, mallats.com
 host-suffix, mallgaleriashn.com
-host-suffix, mallheadphone.com
 host-suffix, mallikahemachandra.com
 host-suffix, mallmalin.com
 host-suffix, mallmulticentro.com
@@ -100714,7 +100644,6 @@ host-suffix, mbfilm.pro
 host-suffix, mbfmoto.com
 host-suffix, mbgminer.com
 host-suffix, mbgtoys.com
-host-suffix, mbheadphone.com
 host-suffix, mbi123.vip
 host-suffix, mbi777.bet
 host-suffix, mbi777a.net
@@ -103507,7 +103436,6 @@ host-suffix, microteccloud.com
 host-suffix, microworkers.com
 host-suffix, microzenbd.com
 host-suffix, micstatic.com
-host-suffix, micstl.com
 host-suffix, mictests.com
 host-suffix, micu.vip
 host-suffix, micuenta.online
@@ -106524,7 +106452,6 @@ host-suffix, monsterhunternow.com
 host-suffix, monsterlegendsgame.com
 host-suffix, monsternotebook.com
 host-suffix, monsterphonics.com
-host-suffix, monsterproduct.net
 host-suffix, monstersbeatbydres.com
 host-suffix, monstersdebea.com
 host-suffix, monstershopcheapbeats.net
@@ -106761,7 +106688,6 @@ host-suffix, moreflicks.com
 host-suffix, morefreegame.com
 host-suffix, moregameh5.com
 host-suffix, moregirls.org
-host-suffix, moreheadphones.com
 host-suffix, morein-eg.com
 host-suffix, morejobapply.com
 host-suffix, moreknig.org
@@ -111969,7 +111895,6 @@ host-suffix, nebeday.org
 host-suffix, nebeducation.com
 host-suffix, nebo.mobi
 host-suffix, nebojsavukanovic.info
-host-suffix, neborder.com
 host-suffix, neborela.com
 host-suffix, nebpakistan.org
 host-suffix, nebplus2notes.com
@@ -112758,7 +112683,6 @@ host-suffix, newbalancejobs.com
 host-suffix, newbandeng.com
 host-suffix, newbeatsblackfriday.com
 host-suffix, newbella.com
-host-suffix, newbemany.com
 host-suffix, newbest-ricambi.com
 host-suffix, newbest.net
 host-suffix, newbestporn.com
@@ -112848,7 +112772,6 @@ host-suffix, newlocay.com
 host-suffix, newlook.com
 host-suffix, newluck.net
 host-suffix, newly.app
-host-suffix, newlysprung.net
 host-suffix, newmaliwinnerss.click
 host-suffix, newmatic.com
 host-suffix, newmessagerpaix.net
@@ -112914,7 +112837,6 @@ host-suffix, newsbank.com
 host-suffix, newsblogs.online
 host-suffix, newsbreak.com
 host-suffix, newsbytesapp.com
-host-suffix, newschristmasshopping.com
 host-suffix, newscienceacademy.com
 host-suffix, newscienceworld.com
 host-suffix, newscientist.com
@@ -113258,7 +113180,6 @@ host-suffix, nffund.com
 host-suffix, nfhostingapp.com
 host-suffix, nfieldmr.com
 host-suffix, nfl.com
-host-suffix, nflhotsalejerseys.com
 host-suffix, nflkwsnfhslnf.shop
 host-suffix, nflperry.com
 host-suffix, nflpickem.app
@@ -113510,7 +113431,6 @@ host-suffix, nicept.net
 host-suffix, nicequest.com
 host-suffix, nices-play.online
 host-suffix, niceshops.com
-host-suffix, nicesshop.net
 host-suffix, nicesss.com
 host-suffix, nicetouchtech.com
 host-suffix, nicetutor.net
@@ -116360,7 +116280,6 @@ host-suffix, offbeatbd.shop
 host-suffix, offcn.com
 host-suffix, offer-finder.com
 host-suffix, offer-lucky.com
-host-suffix, offerairjordanlebron.com
 host-suffix, offerdomain6.online
 host-suffix, offeronair.com
 host-suffix, offers-pagn.vercel.app
@@ -116492,7 +116411,6 @@ host-suffix, ofxoffice.com
 host-suffix, og7.games
 host-suffix, og9og9.com
 host-suffix, ogalopcourse.com
-host-suffix, ogameblog.com
 host-suffix, ogamex.net
 host-suffix, ogawn.buzz
 host-suffix, ogcnice.com
@@ -117983,7 +117901,6 @@ host-suffix, onporn.vip
 host-suffix, onramper.com
 host-suffix, onreg.com
 host-suffix, onsalekey.com
-host-suffix, onsaletrend.com
 host-suffix, onsalus.com
 host-suffix, onscoot.com
 host-suffix, onseconnait.com
@@ -121607,7 +121524,6 @@ host-suffix, paullafayet.com
 host-suffix, paulmann.com
 host-suffix, paulobarbosa.com
 host-suffix, paulovieiraaquarios.com
-host-suffix, paulsimon-music.com
 host-suffix, paulskilkenny.com
 host-suffix, paulsmith.com
 host-suffix, paultan.org
@@ -122670,7 +122586,6 @@ host-suffix, perfectgirls.xxx
 host-suffix, perfecthoteldeals.com
 host-suffix, perfectionroaring.shop
 host-suffix, perfectionstellar.shop
-host-suffix, perfectkickz.net
 host-suffix, perfectlingo.com
 host-suffix, perfectlybasics.com
 host-suffix, perfectmarket-7643.myshopify.com
@@ -122800,7 +122715,6 @@ host-suffix, personalplanner.com
 host-suffix, personalshop.com
 host-suffix, personatalent.com
 host-suffix, personcentredsoftware.com
-host-suffix, personeelsland.com
 host-suffix, personica.pro
 host-suffix, personifycare.com
 host-suffix, personio.com
@@ -123846,12 +123760,10 @@ host-suffix, picklesmasho.com
 host-suffix, pickmypostcode.com
 host-suffix, pickndropnepal.com
 host-suffix, picknexplore.com
-host-suffix, picknicekicks.net
 host-suffix, picknovia.com
 host-suffix, pickop.app
 host-suffix, picksandparlays.net
 host-suffix, pickscore119.com
-host-suffix, pickshoesclothes.com
 host-suffix, pickswise.com
 host-suffix, picktime.com
 host-suffix, pickup-mania.com
@@ -125726,7 +125638,6 @@ host-suffix, pocket.health
 host-suffix, pocket.store
 host-suffix, pocketa.online
 host-suffix, pocketapk.com
-host-suffix, pocketbiketrader.com
 host-suffix, pocketcasts.com
 host-suffix, pocketchamps.com
 host-suffix, pocketesim.com
@@ -132630,7 +132541,6 @@ host-suffix, rbrfm.com
 host-suffix, rbs.com
 host-suffix, rbschickenbarbados.com
 host-suffix, rbsco.net
-host-suffix, rbsgr.com
 host-suffix, rbshoppinglogistic.com
 host-suffix, rbtczstudentportal.com
 host-suffix, rbth.com
@@ -133495,7 +133405,6 @@ host-suffix, reflexosteo.com
 host-suffix, refluxcentar.com
 host-suffix, refokkused.photography
 host-suffix, refoodlution.com
-host-suffix, reform-apple.com
 host-suffix, reform-saksak.net
 host-suffix, reforma.com
 host-suffix, reformamnetwork.com
@@ -134083,10 +133992,8 @@ host-suffix, reprive.live
 host-suffix, reproduccionasistida.org
 host-suffix, reproduktor.net
 host-suffix, repsly.com
-host-suffix, repsneakermall.com
 host-suffix, repsol.com
 host-suffix, repspark.com
-host-suffix, repswing.com
 host-suffix, reptilemaniacs.com
 host-suffix, reptileworldmx.com
 host-suffix, reptilis.com
@@ -137477,6 +137384,7 @@ host-suffix, saamnang.store
 host-suffix, saas-timessg.com
 host-suffix, saasargentina.com
 host-suffix, saascom.shop
+host-suffix, saasfz.com
 host-suffix, saashr.com
 host-suffix, saasops.tech
 host-suffix, saaspaws.com
@@ -138143,7 +138051,6 @@ host-suffix, sale365.pro
 host-suffix, salebeatslasteststyle4you.com
 host-suffix, saleblackfridaydrebeats.com
 host-suffix, salebot.pro
-host-suffix, salecheaphandbags.com
 host-suffix, saledock.com
 host-suffix, salehabad.org
 host-suffix, salehcars.com
@@ -138355,7 +138262,6 @@ host-suffix, samdanci.com
 host-suffix, samdexxbendice.com
 host-suffix, samduo.com
 host-suffix, sameagedates.com
-host-suffix, samebags.com
 host-suffix, sameh-ahmed.com
 host-suffix, samehadaku.care
 host-suffix, samehadaku.how
@@ -138761,7 +138667,6 @@ host-suffix, sanuk99z1.com
 host-suffix, sanurabeauty.com
 host-suffix, sanus-statera.com
 host-suffix, sanusworld.com
-host-suffix, sanvaras.com
 host-suffix, sanvicentefundacion.com
 host-suffix, sanwecka.tech
 host-suffix, sanweihou.com
@@ -142921,14 +142826,12 @@ host-suffix, shoelifer.com
 host-suffix, shoelovershn.com
 host-suffix, shoemartstores.com
 host-suffix, shoeresidence.com
-host-suffix, shoers.com
 host-suffix, shoes4lessnepal.com
 host-suffix, shoesbys.store
 host-suffix, shoesforcrews.com
 host-suffix, shoesonclearance.com
 host-suffix, shoesourcegy.com
 host-suffix, shoesoutleshr.shop
-host-suffix, shoestop2.com
 host-suffix, shoestyleinternational.com
 host-suffix, shoesverduyn.com
 host-suffix, shoetemplegh.com
@@ -143198,13 +143101,11 @@ host-suffix, shopperspr.net
 host-suffix, shoppersstopafrica.net
 host-suffix, shoppersurvey.com
 host-suffix, shoppicom.com
-host-suffix, shopping-days.net
 host-suffix, shopping-gallery.com
 host-suffix, shoppingcounty.com
 host-suffix, shoppinggai.com
 host-suffix, shoppinghavana.com
 host-suffix, shoppingpl.com
-host-suffix, shoppinguheadphones.com
 host-suffix, shoppingwithruby.com
 host-suffix, shopporg.com
 host-suffix, shoppre.com
@@ -146326,16 +146227,13 @@ host-suffix, sndrama.org
 host-suffix, snduk.com
 host-suffix, sneakcenter.com
 host-suffix, sneakenergy.com
-host-suffix, sneaker666.com
 host-suffix, sneaker8.online
 host-suffix, sneakerbardetroit.com
 host-suffix, sneakerfiles.com
 host-suffix, sneakerjagers.com
 host-suffix, sneakernews.com
-host-suffix, sneakerpage.net
 host-suffix, sneakerscambodia.com
 host-suffix, sneakershutmv.com
-host-suffix, sneakerskick.com
 host-suffix, sneakersmena.com
 host-suffix, sneakersprishtina.com
 host-suffix, sneakox.com
@@ -147543,7 +147441,6 @@ host-suffix, sosman.club
 host-suffix, sosmediasburundi.org
 host-suffix, sosnc.gov
 host-suffix, soso.com
-host-suffix, soso7778.com
 host-suffix, sosoim.net
 host-suffix, sososnap.com
 host-suffix, sosostoresn.com
@@ -148061,7 +147958,6 @@ host-suffix, specialrewards4u.com
 host-suffix, specialsignal.shop
 host-suffix, specialticket.net
 host-suffix, specialtydose.com
-host-suffix, specialtyheadphones.com
 host-suffix, specisscollege.com
 host-suffix, specnt.com
 host-suffix, specprice.com
@@ -148369,7 +148265,6 @@ host-suffix, spirepharma.com
 host-suffix, spiridonakis.com
 host-suffix, spiriohub.com
 host-suffix, spirit-of-metal.com
-host-suffix, spiritclubs.com
 host-suffix, spiriteo.com
 host-suffix, spiritfanfiction.com
 host-suffix, spirithalloween.com
@@ -151018,7 +150913,6 @@ host-suffix, sultraffic.com
 host-suffix, sultrycall.com
 host-suffix, suluhusaccoltd.com
 host-suffix, suluni-store.shop
-host-suffix, sulwerphoto.com
 host-suffix, sulwhasoo.com
 host-suffix, sum-lebanon.com
 host-suffix, suma.coop
@@ -151145,7 +151039,6 @@ host-suffix, sunfirematrix.com
 host-suffix, sunflower-land.com
 host-suffix, sunfun.live
 host-suffix, sungkk777.com
-host-suffix, sunglassessale2014.com
 host-suffix, sunglasshut.com
 host-suffix, sungroupinc.com
 host-suffix, sungroupinc.net
@@ -151431,7 +151324,6 @@ host-suffix, superdomen.online
 host-suffix, superdreamuae.com
 host-suffix, superdrug.com
 host-suffix, superdry.com
-host-suffix, superearsenjoy.com
 host-suffix, superecono.com
 host-suffix, superenalotto.com
 host-suffix, superenalotto.net
@@ -151653,7 +151545,6 @@ host-suffix, supplemento-bh.com
 host-suffix, supplements-natural.shop
 host-suffix, supplementsmalta.com
 host-suffix, suppliergo.com
-host-suffix, supplybestjerseys.com
 host-suffix, supplyhouse.com
 host-suffix, supplymaster.store
 host-suffix, supplyvan.com
@@ -152652,7 +152543,6 @@ host-suffix, sztv21.top
 host-suffix, szu.app
 host-suffix, szu.moe
 host-suffix, szwego.com
-host-suffix, szwinnertechnology.com
 host-suffix, szxssk.com
 host-suffix, szzfgjj.com
 host-suffix, t-2.net
@@ -153161,7 +153051,6 @@ host-suffix, takeandhike.com
 host-suffix, takeat.app
 host-suffix, takeaway.com
 host-suffix, takecareasia.com
-host-suffix, takegoto.com
 host-suffix, takeiteasyvi.com
 host-suffix, takeitems.com
 host-suffix, takemm.com
@@ -157515,7 +157404,6 @@ host-suffix, thettfa.com
 host-suffix, thetunisianengineers.com
 host-suffix, thetvapp.plus
 host-suffix, thetwistdaily.com
-host-suffix, theuab.net
 host-suffix, theubeg.com
 host-suffix, theugandanjobline.com
 host-suffix, theultimatedining.com
@@ -160886,7 +160774,6 @@ host-suffix, tradestation.com
 host-suffix, tradetron.tech
 host-suffix, tradeunleashed.com
 host-suffix, tradevine.com
-host-suffix, tradevip1.com
 host-suffix, tradew.com
 host-suffix, tradewheel.com
 host-suffix, tradewinds.ltd
@@ -162277,7 +162164,6 @@ host-suffix, ttdeye.com
 host-suffix, ttdownloader.com
 host-suffix, ttdtm.com
 host-suffix, ttegav.com
-host-suffix, tteshop.com
 host-suffix, ttfnc.org
 host-suffix, ttfpa.org
 host-suffix, ttfscu.com
@@ -166411,7 +166297,6 @@ host-suffix, uzzf.com
 host-suffix, v-clock.com
 host-suffix, v-dey.com
 host-suffix, v-e.info
-host-suffix, v-has.com
 host-suffix, v-iec.com
 host-suffix, v-kosmose.com
 host-suffix, v-minsk.com
@@ -169010,7 +168895,6 @@ host-suffix, vipganer2.club
 host-suffix, vipganer29.vip
 host-suffix, vipgdz.com
 host-suffix, viphaitianpie18.com
-host-suffix, vipheadphones.com
 host-suffix, viphhh.win
 host-suffix, viphost.cloud
 host-suffix, viphpu.com
@@ -169054,7 +168938,6 @@ host-suffix, viprpd.org
 host-suffix, vipsatdz.com
 host-suffix, vipsattamatka.mobi
 host-suffix, vipserije.com
-host-suffix, vipshoes2.com
 host-suffix, vipshop.com
 host-suffix, vipshopica.com
 host-suffix, vipsister23.com
@@ -171497,7 +171380,6 @@ host-suffix, wasaline.com
 host-suffix, wasba.net
 host-suffix, wascal.org
 host-suffix, wascosaintlucia.com
-host-suffix, wasdj.com
 host-suffix, wasdroom.com
 host-suffix, waseeh.com
 host-suffix, waseel.com
@@ -173035,12 +172917,8 @@ host-suffix, wholefoodsmarket.com
 host-suffix, wholekidsfoundation.org
 host-suffix, wholeplanetfoundation.org
 host-suffix, wholesale-city.com
-host-suffix, wholesale-exporter1.com
 host-suffix, wholesale7.net
-host-suffix, wholesalediscountpurses.com
 host-suffix, wholesaledomestic.com
-host-suffix, wholesalefine.com
-host-suffix, wholesaleonlinemart.com
 host-suffix, wholesalepricebd.com
 host-suffix, wholeskop.com
 host-suffix, wholesomeyum.com
@@ -174380,7 +174258,6 @@ host-suffix, worldchampionsportscards.org
 host-suffix, worldchatmates.net
 host-suffix, worldchess.com
 host-suffix, worldcia3ds.com
-host-suffix, worldcoinpay.com
 host-suffix, worldconnection.com
 host-suffix, worldcubeassociation.org
 host-suffix, worldcurling.org

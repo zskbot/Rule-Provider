@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-11-20
+# 数据日期: 2026-11-21
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10523 条（域名: 10505 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10527 条（域名: 10509 / 精确域名: 15 / 正则: 3）
 # ============================================================
 host-suffix, 00cdn.com
 host-suffix, 0123456789.com
@@ -3180,6 +3180,7 @@ host-suffix, ecarxgroup.com
 host-suffix, eceshi.com
 host-suffix, echargenet.com
 host-suffix, echemi.com
+host-suffix, echooai.com
 host-suffix, ecitic.com
 host-suffix, ecjobhome.com
 host-suffix, eckwai.com
@@ -3401,7 +3402,9 @@ host-suffix, fastdl.app
 host-suffix, favonis.cloud
 host-suffix, favonis.com
 host-suffix, favonis.space
+host-suffix, faw-vw.com
 host-suffix, faxingbao.com
+host-suffix, fazhipro.com
 host-suffix, fbank.com
 host-suffix, fbousgsz.cc
 host-suffix, fc2.com
@@ -7552,6 +7555,7 @@ host-suffix, ryonaniko.com
 host-suffix, rzrc114.com
 host-suffix, s2bdiy.com
 host-suffix, s61m.com
+host-suffix, saasfz.com
 host-suffix, saasops.tech
 host-suffix, saayaa.com
 host-suffix, sadidc.com

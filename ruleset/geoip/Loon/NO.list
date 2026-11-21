@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: NO
 # 挪威（Norway）
-# 数据日期: 2026-11-20
+# 数据日期: 2026-11-21
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1948 条（IPv4: 1454 / IPv6: 494）
+# 规则统计: 共 1949 条（IPv4: 1455 / IPv6: 494）
 # ============================================================
 IP-CIDR,103.193.208.0/22,no-resolve
 IP-CIDR,104.143.252.0/24,no-resolve
@@ -45,6 +45,7 @@ IP-CIDR,13.143.176.0/24,no-resolve
 IP-CIDR,13.143.178.0/23,no-resolve
 IP-CIDR,130.193.28.0/24,no-resolve
 IP-CIDR,130.67.0.0/16,no-resolve
+IP-CIDR,130.78.176.0/24,no-resolve
 IP-CIDR,130.78.190.0/24,no-resolve
 IP-CIDR,132.150.0.0/16,no-resolve
 IP-CIDR,134.146.194.0/24,no-resolve
