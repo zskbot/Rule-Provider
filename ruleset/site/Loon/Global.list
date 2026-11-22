@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-11-21
+# 数据日期: 2026-11-22
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 181846 条（域名: 181732 / 精确域名: 103 / 正则: 11）
+# 规则统计: 共 181847 条（域名: 181733 / 精确域名: 103 / 正则: 11）
 # ============================================================
 DOMAIN-SUFFIX,0000000.live
 DOMAIN-SUFFIX,000h555.com
@@ -75669,6 +75669,7 @@ DOMAIN-SUFFIX,icbtechscr.com
 DOMAIN-SUFFIX,icc-construct.com
 DOMAIN-SUFFIX,icc-cpi.int
 DOMAIN-SUFFIX,icc-cricket.com
+DOMAIN-SUFFIX,icc.link
 DOMAIN-SUFFIX,iccbnassets.com
 DOMAIN-SUFFIX,icccedu.com
 DOMAIN-SUFFIX,iccku.com

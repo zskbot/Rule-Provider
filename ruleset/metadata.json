@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-22",
   "source": "APNIC + IPtoASN",
   "country_count": 242,
   "global_provider": {
-    "total_cidrs": 177279,
+    "total_cidrs": 177283,
     "ipv4_cidrs": 107757,
-    "ipv6_cidrs": 69522
+    "ipv6_cidrs": 69526
   },
   "countries": {
     "AD": {
@@ -145,8 +145,8 @@
       "name_en": "Bangladesh",
       "name_zh": "孟加拉国",
       "ipv4_cidrs": 2639,
-      "ipv6_cidrs": 1694,
-      "total_cidrs": 4333
+      "ipv6_cidrs": 1696,
+      "total_cidrs": 4335
     },
     "BE": {
       "name_en": "Belgium",
@@ -753,9 +753,9 @@
     "IT": {
       "name_en": "Italy",
       "name_zh": "意大利",
-      "ipv4_cidrs": 4171,
+      "ipv4_cidrs": 4172,
       "ipv6_cidrs": 1276,
-      "total_cidrs": 5447
+      "total_cidrs": 5448
     },
     "JE": {
       "name_en": "Jersey",
@@ -1586,9 +1586,9 @@
     "US": {
       "name_en": "United States",
       "name_zh": "美国",
-      "ipv4_cidrs": 51328,
-      "ipv6_cidrs": 17451,
-      "total_cidrs": 68779
+      "ipv4_cidrs": 51327,
+      "ipv6_cidrs": 17453,
+      "total_cidrs": 68780
     },
     "UY": {
       "name_en": "Uruguay",

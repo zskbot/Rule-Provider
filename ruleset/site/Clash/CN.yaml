@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-11-21
+# 数据日期: 2026-11-22
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10527 条（域名: 10509 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10528 条（域名: 10510 / 精确域名: 15 / 正则: 3）
 # ============================================================
 payload:
   - DOMAIN-SUFFIX,00cdn.com
@@ -4575,6 +4575,7 @@ payload:
   - DOMAIN-SUFFIX,icbcthai.com
   - DOMAIN-SUFFIX,icbkfs.com
   - DOMAIN-SUFFIX,icbkus.com
+  - DOMAIN-SUFFIX,icc.link
   - DOMAIN-SUFFIX,iccvlog.com
   - DOMAIN-SUFFIX,ichangtou.com
   - DOMAIN-SUFFIX,iciba.com
