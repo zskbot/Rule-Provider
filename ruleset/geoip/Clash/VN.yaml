@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: VN
 # 越南（Vietnam）
-# 数据日期: 2026-11-22
+# 数据日期: 2026-11-23
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 2362 条（IPv4: 1373 / IPv6: 989）
+# 规则统计: 共 2363 条（IPv4: 1373 / IPv6: 990）
 # ============================================================
 payload:
   - IP-CIDR,1.52.0.0/14,no-resolve
@@ -1912,6 +1912,7 @@ payload:
   - IP-CIDR6,2001:df7:ce00::/48,no-resolve
   - IP-CIDR6,2001:df7:d580::/48,no-resolve
   - IP-CIDR6,2001:df7:dc0::/48,no-resolve
+  - IP-CIDR6,2001:df7:e6c0::/48,no-resolve
   - IP-CIDR6,2001:df7:fd80::/48,no-resolve
   - IP-CIDR6,2001:ee0::/30,no-resolve
   - IP-CIDR6,2400:1060::/32,no-resolve

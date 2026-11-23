@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-11-22
+# 数据日期: 2026-11-23
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 181847 条（域名: 181733 / 精确域名: 103 / 正则: 11）
+# 规则统计: 共 181851 条（域名: 181737 / 精确域名: 103 / 正则: 11）
 # ============================================================
 DOMAIN-SUFFIX,0000000.live
 DOMAIN-SUFFIX,000h555.com
@@ -34197,6 +34197,7 @@ DOMAIN-SUFFIX,chungdahm.com
 DOMAIN-SUFFIX,chungdoi.com
 DOMAIN-SUFFIX,chungymnasticsmalta.com
 DOMAIN-SUFFIX,chunithm-net-eng.com
+DOMAIN-SUFFIX,chunithm.wahlap.com
 DOMAIN-SUFFIX,chunkbase.com
 DOMAIN-SUFFIX,chunky.site
 DOMAIN-SUFFIX,chunman4.com
@@ -97745,6 +97746,7 @@ DOMAIN-SUFFIX,mailsuite.com
 DOMAIN-SUFFIX,mailticking.com
 DOMAIN-SUFFIX,mailzeet.com
 DOMAIN-SUFFIX,maimai.pro
+DOMAIN-SUFFIX,maimai.wahlap.com
 DOMAIN-SUFFIX,maimaidx-eng.com
 DOMAIN-SUFFIX,maimemo.com
 DOMAIN-SUFFIX,maimemostatus.com
@@ -155975,6 +155977,7 @@ DOMAIN-SUFFIX,tghfashion.com
 DOMAIN-SUFFIX,tghn.org
 DOMAIN-SUFFIX,tgims.com
 DOMAIN-SUFFIX,tgju.org
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
 DOMAIN-SUFFIX,tgl-cloud.com
 DOMAIN-SUFFIX,tglink.xyz
 DOMAIN-SUFFIX,tglinnike.lol
@@ -170990,6 +170993,7 @@ DOMAIN-SUFFIX,wahatalquran.org
 DOMAIN-SUFFIX,wahataltaqnia.com
 DOMAIN-SUFFIX,wahedsex.com
 DOMAIN-SUFFIX,wahetnourelhaya.org
+DOMAIN-SUFFIX,wahlap.net
 DOMAIN-SUFFIX,wahlaphk.com
 DOMAIN-SUFFIX,waho.live
 DOMAIN-SUFFIX,wahooas.org

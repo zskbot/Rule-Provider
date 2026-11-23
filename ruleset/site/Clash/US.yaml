@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: US
 # 美国（United States）
-# 数据日期: 2026-11-22
+# 数据日期: 2026-11-23
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 8450 条（域名: 8356 / 精确域名: 84 / 正则: 10）
+# 规则统计: 共 8451 条（域名: 8357 / 精确域名: 84 / 正则: 10）
 # ============================================================
 payload:
   - DOMAIN-SUFFIX,0emm.com
@@ -3425,6 +3425,7 @@ payload:
   - DOMAIN-SUFFIX,geforcenow.com
   - DOMAIN-SUFFIX,geico.com
   - DOMAIN-SUFFIX,gelbooru.com
+  - DOMAIN-SUFFIX,gemma.ai
   - DOMAIN-SUFFIX,genealogybank.com
   - DOMAIN-SUFFIX,generationgenius.com
   - DOMAIN-SUFFIX,geneseeisd.org

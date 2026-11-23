@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: US
 # 美国（United States）
-# 数据日期: 2026-11-22
+# 数据日期: 2026-11-23
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 8450 条（域名: 8356 / 精确域名: 84 / 正则: 10）
+# 规则统计: 共 8451 条（域名: 8357 / 精确域名: 84 / 正则: 10）
 # ============================================================
 host-suffix, 0emm.com
 host-suffix, 1001fonts.com
@@ -3424,6 +3424,7 @@ host-suffix, gedecomix.com
 host-suffix, geforcenow.com
 host-suffix, geico.com
 host-suffix, gelbooru.com
+host-suffix, gemma.ai
 host-suffix, genealogybank.com
 host-suffix, generationgenius.com
 host-suffix, geneseeisd.org

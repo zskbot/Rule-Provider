@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-11-22
+# 数据日期: 2026-11-23
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 181847 条（域名: 181733 / 精确域名: 103 / 正则: 11）
+# 规则统计: 共 181851 条（域名: 181737 / 精确域名: 103 / 正则: 11）
 # ============================================================
 host-suffix, 0000000.live
 host-suffix, 000h555.com
@@ -34197,6 +34197,7 @@ host-suffix, chungdahm.com
 host-suffix, chungdoi.com
 host-suffix, chungymnasticsmalta.com
 host-suffix, chunithm-net-eng.com
+host-suffix, chunithm.wahlap.com
 host-suffix, chunkbase.com
 host-suffix, chunky.site
 host-suffix, chunman4.com
@@ -97745,6 +97746,7 @@ host-suffix, mailsuite.com
 host-suffix, mailticking.com
 host-suffix, mailzeet.com
 host-suffix, maimai.pro
+host-suffix, maimai.wahlap.com
 host-suffix, maimaidx-eng.com
 host-suffix, maimemo.com
 host-suffix, maimemostatus.com
@@ -155975,6 +155977,7 @@ host-suffix, tghfashion.com
 host-suffix, tghn.org
 host-suffix, tgims.com
 host-suffix, tgju.org
+host-suffix, tgk-wcaime.wahlap.com
 host-suffix, tgl-cloud.com
 host-suffix, tglink.xyz
 host-suffix, tglinnike.lol
@@ -170990,6 +170993,7 @@ host-suffix, wahatalquran.org
 host-suffix, wahataltaqnia.com
 host-suffix, wahedsex.com
 host-suffix, wahetnourelhaya.org
+host-suffix, wahlap.net
 host-suffix, wahlaphk.com
 host-suffix, waho.live
 host-suffix, wahooas.org

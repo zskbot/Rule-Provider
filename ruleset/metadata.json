@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22",
+  "generated_at": "2026-11-23",
   "source": "APNIC + IPtoASN",
   "country_count": 242,
   "global_provider": {
-    "total_cidrs": 177283,
+    "total_cidrs": 177285,
     "ipv4_cidrs": 107757,
-    "ipv6_cidrs": 69526
+    "ipv6_cidrs": 69528
   },
   "countries": {
     "AD": {
@@ -1587,8 +1587,8 @@
       "name_en": "United States",
       "name_zh": "美国",
       "ipv4_cidrs": 51327,
-      "ipv6_cidrs": 17453,
-      "total_cidrs": 68780
+      "ipv6_cidrs": 17454,
+      "total_cidrs": 68781
     },
     "UY": {
       "name_en": "Uruguay",
@@ -1643,8 +1643,8 @@
       "name_en": "Vietnam",
       "name_zh": "越南",
       "ipv4_cidrs": 1373,
-      "ipv6_cidrs": 989,
-      "total_cidrs": 2362
+      "ipv6_cidrs": 990,
+      "total_cidrs": 2363
     },
     "VU": {
       "name_en": "Vanuatu",

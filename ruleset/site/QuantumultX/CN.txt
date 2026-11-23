@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-11-22
+# 数据日期: 2026-11-23
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10528 条（域名: 10510 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10532 条（域名: 10514 / 精确域名: 15 / 正则: 3）
 # ============================================================
 host-suffix, 00cdn.com
 host-suffix, 0123456789.com
@@ -2191,6 +2191,7 @@ host-suffix, chugou360.com
 host-suffix, chuimg.com
 host-suffix, chujingapp.com
 host-suffix, chunchao.ai
+host-suffix, chunithm.wahlap.com
 host-suffix, chunkbase.com
 host-suffix, chunman4.com
 host-suffix, chunxiaoge.com
@@ -5945,6 +5946,7 @@ host-suffix, maiche.com
 host-suffix, mail.com
 host-suffix, mail.ru
 host-suffix, mail4399.com
+host-suffix, maimai.wahlap.com
 host-suffix, maimemo.com
 host-suffix, maimemostatus.com
 host-suffix, maindown4399.com
@@ -8480,6 +8482,7 @@ host-suffix, tgbus.com
 host-suffix, tggfl.com
 host-suffix, tghao.com
 host-suffix, tgju.org
+host-suffix, tgk-wcaime.wahlap.com
 host-suffix, tgnav.org
 host-suffix, tgovcloud.com
 host-suffix, tgpro.top
@@ -9313,6 +9316,7 @@ host-suffix, vxo7tu.com
 host-suffix, vzuu.com
 host-suffix, wa01.com
 host-suffix, waffo.ai
+host-suffix, wahlap.net
 host-suffix, waifushangcheng.com
 host-suffix, waimaosou.com
 host-suffix, wal-mart.com
