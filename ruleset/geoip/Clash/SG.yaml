@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: SG
 # 新加坡（Singapore）
-# 数据日期: 2026-11-23
+# 数据日期: 2026-11-24
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 4028 条（IPv4: 3234 / IPv6: 794）
 # ============================================================
@@ -3540,7 +3540,7 @@ payload:
   - IP-CIDR6,2401:cda0::/32,no-resolve
   - IP-CIDR6,2401:d00::/32,no-resolve
   - IP-CIDR6,2401:d5c0::/32,no-resolve
-  - IP-CIDR6,2401:db00::/32,no-resolve
+  - IP-CIDR6,2401:db00::/28,no-resolve
   - IP-CIDR6,2401:db80::/32,no-resolve
   - IP-CIDR6,2401:e780::/32,no-resolve
   - IP-CIDR6,2401:eb60::/32,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: PK
 # 巴基斯坦（Pakistan）
-# 数据日期: 2026-11-23
+# 数据日期: 2026-11-24
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1293 条（IPv4: 935 / IPv6: 358）
+# 规则统计: 共 1295 条（IPv4: 936 / IPv6: 359）
 # ============================================================
 payload:
   - IP-CIDR,101.50.64.0/18,no-resolve
@@ -368,7 +368,7 @@ payload:
   - IP-CIDR,103.76.110.0/23,no-resolve
   - IP-CIDR,103.76.28.0/23,no-resolve
   - IP-CIDR,103.76.3.0/24,no-resolve
-  - IP-CIDR,103.77.8.0/24,no-resolve
+  - IP-CIDR,103.77.8.0/22,no-resolve
   - IP-CIDR,103.78.134.0/23,no-resolve
   - IP-CIDR,103.79.16.0/22,no-resolve
   - IP-CIDR,103.8.112.0/22,no-resolve
@@ -468,6 +468,7 @@ payload:
   - IP-CIDR,116.197.156.0/22,no-resolve
   - IP-CIDR,116.204.167.0/24,no-resolve
   - IP-CIDR,116.206.140.0/22,no-resolve
+  - IP-CIDR,116.206.164.0/22,no-resolve
   - IP-CIDR,116.206.64.0/22,no-resolve
   - IP-CIDR,116.206.84.0/22,no-resolve
   - IP-CIDR,116.213.32.0/22,no-resolve
@@ -1290,6 +1291,7 @@ payload:
   - IP-CIDR6,2407:1b40::/32,no-resolve
   - IP-CIDR6,2407:1ec0::/32,no-resolve
   - IP-CIDR6,2407:5b80::/32,no-resolve
+  - IP-CIDR6,2407:8580::/32,no-resolve
   - IP-CIDR6,2407:9c00::/32,no-resolve
   - IP-CIDR6,2407:9e00::/32,no-resolve
   - IP-CIDR6,2407:aa80::/32,no-resolve

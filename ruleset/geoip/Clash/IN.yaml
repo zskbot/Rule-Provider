@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: IN
 # 印度（India）
-# 数据日期: 2026-11-23
+# 数据日期: 2026-11-24
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 12053 条（IPv4: 9007 / IPv6: 3046）
+# 规则统计: 共 12055 条（IPv4: 9008 / IPv6: 3047）
 # ============================================================
 payload:
   - IP-CIDR,1.10.10.0/24,no-resolve
@@ -5102,6 +5102,7 @@ payload:
   - IP-CIDR,141.229.32.0/23,no-resolve
   - IP-CIDR,141.229.36.0/23,no-resolve
   - IP-CIDR,141.229.44.0/23,no-resolve
+  - IP-CIDR,141.229.68.0/22,no-resolve
   - IP-CIDR,142.147.144.0/20,no-resolve
   - IP-CIDR,142.202.252.0/22,no-resolve
   - IP-CIDR,142.79.224.0/19,no-resolve
@@ -10724,6 +10725,7 @@ payload:
   - IP-CIDR6,2001:df7:e280::/48,no-resolve
   - IP-CIDR6,2001:df7:e400::/48,no-resolve
   - IP-CIDR6,2001:df7:e80::/48,no-resolve
+  - IP-CIDR6,2001:df7:e940::/48,no-resolve
   - IP-CIDR6,2001:df7:e980::/48,no-resolve
   - IP-CIDR6,2001:df7:ec80::/48,no-resolve
   - IP-CIDR6,2001:df7:ee00::/48,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: NL
 # 荷兰（Netherlands）
-# 数据日期: 2026-11-23
+# 数据日期: 2026-11-24
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 17001 条（IPv4: 11822 / IPv6: 5179）
+# 规则统计: 共 16996 条（IPv4: 11818 / IPv6: 5178）
 # ============================================================
 IP-CIDR,101.97.0.0/19,no-resolve
 IP-CIDR,101.97.32.0/22,no-resolve
@@ -1639,7 +1639,6 @@ IP-CIDR,149.245.0.0/17,no-resolve
 IP-CIDR,149.245.128.0/18,no-resolve
 IP-CIDR,149.245.192.0/20,no-resolve
 IP-CIDR,149.245.211.0/24,no-resolve
-IP-CIDR,149.245.214.0/23,no-resolve
 IP-CIDR,149.245.216.0/22,no-resolve
 IP-CIDR,149.245.220.0/24,no-resolve
 IP-CIDR,149.245.223.0/24,no-resolve
@@ -1673,8 +1672,6 @@ IP-CIDR,15.36.70.0/23,no-resolve
 IP-CIDR,15.40.75.0/24,no-resolve
 IP-CIDR,150.129.8.0/22,no-resolve
 IP-CIDR,150.237.112.0/22,no-resolve
-IP-CIDR,150.237.117.0/24,no-resolve
-IP-CIDR,150.237.118.0/23,no-resolve
 IP-CIDR,150.237.120.0/24,no-resolve
 IP-CIDR,150.237.127.0/24,no-resolve
 IP-CIDR,150.237.66.0/23,no-resolve
@@ -3884,7 +3881,6 @@ IP-CIDR,185.51.246.0/23,no-resolve
 IP-CIDR,185.51.48.0/21,no-resolve
 IP-CIDR,185.51.56.0/22,no-resolve
 IP-CIDR,185.52.0.0/21,no-resolve
-IP-CIDR,185.52.104.0/22,no-resolve
 IP-CIDR,185.52.12.0/22,no-resolve
 IP-CIDR,185.52.176.0/22,no-resolve
 IP-CIDR,185.52.208.0/21,no-resolve
@@ -15416,7 +15412,6 @@ IP-CIDR6,2a04:ba00::/29,no-resolve
 IP-CIDR6,2a04:be80::/29,no-resolve
 IP-CIDR6,2a04:c580::/29,no-resolve
 IP-CIDR6,2a04:c600::/29,no-resolve
-IP-CIDR6,2a04:c780::/29,no-resolve
 IP-CIDR6,2a04:c800::/29,no-resolve
 IP-CIDR6,2a04:c980::/32,no-resolve
 IP-CIDR6,2a04:ca80::/29,no-resolve

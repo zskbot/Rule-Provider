@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CA
 # 加拿大（Canada）
-# 数据日期: 2026-11-23
+# 数据日期: 2026-11-24
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 9634 条（IPv4: 8219 / IPv6: 1415）
+# 规则统计: 共 9637 条（IPv4: 8221 / IPv6: 1416）
 # ============================================================
 payload:
   - IP-CIDR,100.42.240.0/20,no-resolve
@@ -2149,6 +2149,7 @@ payload:
   - IP-CIDR,192.138.185.0/24,no-resolve
   - IP-CIDR,192.138.186.0/24,no-resolve
   - IP-CIDR,192.138.191.0/24,no-resolve
+  - IP-CIDR,192.138.201.0/24,no-resolve
   - IP-CIDR,192.139.1.0/24,no-resolve
   - IP-CIDR,192.139.112.0/22,no-resolve
   - IP-CIDR,192.139.116.0/23,no-resolve
@@ -5660,6 +5661,7 @@ payload:
   - IP-CIDR,209.25.220.0/22,no-resolve
   - IP-CIDR,209.25.232.0/21,no-resolve
   - IP-CIDR,209.250.128.0/18,no-resolve
+  - IP-CIDR,209.250.8.0/21,no-resolve
   - IP-CIDR,209.251.24.0/22,no-resolve
   - IP-CIDR,209.251.246.0/23,no-resolve
   - IP-CIDR,209.251.50.0/24,no-resolve
@@ -8366,6 +8368,7 @@ payload:
   - IP-CIDR6,2602:81d:b000::/44,no-resolve
   - IP-CIDR6,2602:81e:1000::/44,no-resolve
   - IP-CIDR6,2602:81f:6000::/44,no-resolve
+  - IP-CIDR6,2602:f24a::/40,no-resolve
   - IP-CIDR6,2602:f25d::/40,no-resolve
   - IP-CIDR6,2602:f260::/36,no-resolve
   - IP-CIDR6,2602:f279::/40,no-resolve

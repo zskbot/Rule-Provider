@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CH
 # 瑞士（Switzerland）
-# 数据日期: 2026-11-23
+# 数据日期: 2026-11-24
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4043 条（IPv4: 3116 / IPv6: 927）
+# 规则统计: 共 4044 条（IPv4: 3117 / IPv6: 927）
 # ============================================================
 payload:
   - IP-CIDR,101.2.251.0/24,no-resolve
@@ -358,6 +358,7 @@ payload:
   - IP-CIDR,163.161.0.0/16,no-resolve
   - IP-CIDR,163.168.0.0/16,no-resolve
   - IP-CIDR,163.5.171.0/24,no-resolve
+  - IP-CIDR,164.1.14.0/23,no-resolve
   - IP-CIDR,164.128.0.0/16,no-resolve
   - IP-CIDR,164.137.0.0/16,no-resolve
   - IP-CIDR,164.14.0.0/16,no-resolve
