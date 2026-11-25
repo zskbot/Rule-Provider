@@ -42,7 +42,7 @@ function validDomain(input) {
   if (!value || value.includes("/") || value.includes(":") || value.includes("@")) return null;
   try {
     const host = new URL("https://" + value).hostname;
-    if (host !== value || !value.includes(".") || value.split(".").every(x => /^\\d+$/.test(x)) || value.split(".").some(x => !x || x.length > 63 || !/^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/.test(x))) return null;
+    if (host !== value || !value.includes(".") || value.split(".").every(x => /^\d+$/.test(x)) || value.split(".").some(x => !x || x.length > 63 || !/^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/.test(x))) return null;
     return value;
   } catch { return null; }
 }
