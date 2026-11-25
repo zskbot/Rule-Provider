@@ -42,7 +42,7 @@ function validDomain(input) {
   if (!value || value.includes("/") || value.includes(":") || value.includes("@")) return null;
   try {
     const host = new URL("https://" + value).hostname;
-    if (host !== value || !value.includes(".") || value.split(".").some(x => !x || x.length > 63 || !/^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/.test(x))) return null;
+    if (host !== value || !value.includes(".") || value.split(".").every(x => /^\\d+$/.test(x)) || value.split(".").some(x => !x || x.length > 63 || !/^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/.test(x))) return null;
     return value;
   } catch { return null; }
 }
@@ -69,9 +69,10 @@ async function rdapLookup(domain) {
   const bootstrap = await bootstrapRes.json();
   const tld = domain.split(".").at(-1);
   const service = (bootstrap.services || []).find(item => Array.isArray(item[0]) && item[0].some(x => String(x).toLowerCase() === tld));
-  if (!service || !Array.isArray(service[1]) || !service[1][0]) return { unsupported: true };
-  const base = new URL(service[1][0]);
-  if (base.protocol !== "https:") throw new Error("Non-HTTPS RDAP endpoint rejected");
+  if (!service || !Array.isArray(service[1]) || !service[1].length) return { unsupported: true };
+  const secureBase = service[1].find(candidate => { try { return new URL(candidate).protocol === "https:"; } catch { return false; } });
+  if (!secureBase) return { unsupported: true, reason: "no_https_rdap_endpoint" };
+  const base = new URL(secureBase);
   const endpoint = new URL("domain/" + encodeURIComponent(domain), base.href.endsWith("/") ? base : base.href + "/");
   const response = await timedFetch(endpoint.href, 7000, { headers: { Accept: "application/rdap+json, application/json" } });
   if (response.status === 404) return { not_found: true, source: endpoint.origin };
