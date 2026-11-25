@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: BR
 # 巴西（Brazil）
-# 数据日期: 2026-11-24
+# 数据日期: 2026-11-25
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 15676 条（IPv4: 6569 / IPv6: 9107）
+# 规则统计: 共 15678 条（IPv4: 6569 / IPv6: 9109）
 # ============================================================
 IP-CIDR,102.129.192.0/24,no-resolve
 IP-CIDR,102.129.211.0/24,no-resolve
@@ -8026,6 +8026,7 @@ IP-CIDR6,2804:1f3c:8000::/40,no-resolve
 IP-CIDR6,2804:1f3c:8200::/40,no-resolve
 IP-CIDR6,2804:1f3c:8400::/39,no-resolve
 IP-CIDR6,2804:1f3c:8800::/40,no-resolve
+IP-CIDR6,2804:1f3c:8a00::/40,no-resolve
 IP-CIDR6,2804:1f3c:9000::/38,no-resolve
 IP-CIDR6,2804:1f3c::/36,no-resolve
 IP-CIDR6,2804:1f3c:c000::/35,no-resolve
@@ -15237,6 +15238,7 @@ IP-CIDR6,2804:9b34::/32,no-resolve
 IP-CIDR6,2804:9b38::/32,no-resolve
 IP-CIDR6,2804:9b3c::/32,no-resolve
 IP-CIDR6,2804:9b40::/32,no-resolve
+IP-CIDR6,2804:9b44::/32,no-resolve
 IP-CIDR6,2804:9b4::/32,no-resolve
 IP-CIDR6,2804:9b8::/32,no-resolve
 IP-CIDR6,2804:9c0::/32,no-resolve

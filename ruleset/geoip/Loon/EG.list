@@ -1,15 +1,16 @@
 # ============================================================
 # Rule-Provider: EG
 # 埃及（Egypt）
-# 数据日期: 2026-11-24
+# 数据日期: 2026-11-25
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 211 条（IPv4: 185 / IPv6: 26）
+# 规则统计: 共 213 条（IPv4: 186 / IPv6: 27）
 # ============================================================
 IP-CIDR,102.128.176.0/21,no-resolve
 IP-CIDR,102.131.32.0/22,no-resolve
 IP-CIDR,102.164.114.0/23,no-resolve
 IP-CIDR,102.164.122.0/24,no-resolve
 IP-CIDR,102.184.0.0/13,no-resolve
+IP-CIDR,102.200.138.0/23,no-resolve
 IP-CIDR,102.201.244.0/22,no-resolve
 IP-CIDR,102.202.166.0/23,no-resolve
 IP-CIDR,102.202.222.0/24,no-resolve
@@ -199,6 +200,7 @@ IP-CIDR6,2001:43f8:2e0::/48,no-resolve
 IP-CIDR6,2001:43f8:40::/47,no-resolve
 IP-CIDR6,2001:43f8:c50::/48,no-resolve
 IP-CIDR6,2001:43fc:2800::/48,no-resolve
+IP-CIDR6,2001:43fc:b800::/48,no-resolve
 IP-CIDR6,2001:43fe:a800::/48,no-resolve
 IP-CIDR6,2602:f75c:f80::/48,no-resolve
 IP-CIDR6,2a05:1082:f::/48,no-resolve

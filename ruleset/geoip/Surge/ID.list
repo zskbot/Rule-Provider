@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: ID
 # 印度尼西亚（Indonesia）
-# 数据日期: 2026-11-24
+# 数据日期: 2026-11-25
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 8310 条（IPv4: 5335 / IPv6: 2975）
+# 规则统计: 共 8313 条（IPv4: 5337 / IPv6: 2976）
 # ============================================================
 IP-CIDR,101.0.4.0/22,no-resolve
 IP-CIDR,101.1.18.0/24,no-resolve
@@ -4392,6 +4392,7 @@ IP-CIDR,192.56.125.0/24,no-resolve
 IP-CIDR,192.58.98.0/24,no-resolve
 IP-CIDR,192.65.248.0/24,no-resolve
 IP-CIDR,192.67.1.0/24,no-resolve
+IP-CIDR,192.67.168.0/24,no-resolve
 IP-CIDR,192.82.230.0/24,no-resolve
 IP-CIDR,192.86.132.0/24,no-resolve
 IP-CIDR,192.88.101.0/24,no-resolve
@@ -4890,6 +4891,7 @@ IP-CIDR,212.117.48.0/20,no-resolve
 IP-CIDR,212.69.6.0/24,no-resolve
 IP-CIDR,216.243.112.0/20,no-resolve
 IP-CIDR,216.244.94.0/24,no-resolve
+IP-CIDR,216.52.246.0/23,no-resolve
 IP-CIDR,217.217.27.0/24,no-resolve
 IP-CIDR,218.100.11.0/24,no-resolve
 IP-CIDR,218.100.27.0/24,no-resolve
@@ -7354,6 +7356,7 @@ IP-CIDR6,2001:df7:e780::/48,no-resolve
 IP-CIDR6,2001:df7:e7c0::/48,no-resolve
 IP-CIDR6,2001:df7:e840::/48,no-resolve
 IP-CIDR6,2001:df7:e8c0::/48,no-resolve
+IP-CIDR6,2001:df7:e9c0::/48,no-resolve
 IP-CIDR6,2001:df7:eb00::/48,no-resolve
 IP-CIDR6,2001:df7:ec0::/48,no-resolve
 IP-CIDR6,2001:df7:ed00::/48,no-resolve

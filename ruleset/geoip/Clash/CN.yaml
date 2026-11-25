@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-11-24
+# 数据日期: 2026-11-25
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 10037 条（IPv4: 7054 / IPv6: 2983）
+# 规则统计: 共 10035 条（IPv4: 7053 / IPv6: 2982）
 # ============================================================
 payload:
   - IP-CIDR,1.0.1.0/24,no-resolve
@@ -682,7 +682,6 @@ payload:
   - IP-CIDR,103.17.40.0/22,no-resolve
   - IP-CIDR,103.17.64.0/22,no-resolve
   - IP-CIDR,103.170.134.0/23,no-resolve
-  - IP-CIDR,103.170.210.0/23,no-resolve
   - IP-CIDR,103.170.212.0/23,no-resolve
   - IP-CIDR,103.170.4.0/23,no-resolve
   - IP-CIDR,103.170.72.0/23,no-resolve
@@ -7152,7 +7151,6 @@ payload:
   - IP-CIDR6,2001:df6:6800::/48,no-resolve
   - IP-CIDR6,2001:df6:f400::/48,no-resolve
   - IP-CIDR6,2001:df7:1480::/48,no-resolve
-  - IP-CIDR6,2001:df7:2b80::/48,no-resolve
   - IP-CIDR6,2001:df7:6600::/48,no-resolve
   - IP-CIDR6,2001:df7:d940::/48,no-resolve
   - IP-CIDR6,2001:df7:e580::/48,no-resolve

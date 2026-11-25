@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: KG
 # 吉尔吉斯斯坦（Kyrgyzstan）
-# 数据日期: 2026-11-24
+# 数据日期: 2026-11-25
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 274 条（IPv4: 240 / IPv6: 34）
+# 规则统计: 共 275 条（IPv4: 240 / IPv6: 35）
 # ============================================================
 IP-CIDR,103.102.228.0/24,no-resolve
 IP-CIDR,103.80.86.0/23,no-resolve
@@ -245,6 +245,7 @@ IP-CIDR,95.47.154.0/24,no-resolve
 IP-CIDR,95.47.168.0/23,no-resolve
 IP-CIDR,95.47.232.0/24,no-resolve
 IP-CIDR,95.87.64.0/19,no-resolve
+IP-CIDR6,2001:678:141c::/48,no-resolve
 IP-CIDR6,2001:678:5fc::/48,no-resolve
 IP-CIDR6,2001:67c:12e0::/48,no-resolve
 IP-CIDR6,2001:67c:2264::/48,no-resolve

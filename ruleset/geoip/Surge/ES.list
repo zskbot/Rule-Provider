@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: ES
 # 西班牙（Spain）
-# 数据日期: 2026-11-24
+# 数据日期: 2026-11-25
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5190 条（IPv4: 4026 / IPv6: 1164）
+# 规则统计: 共 5191 条（IPv4: 4026 / IPv6: 1165）
 # ============================================================
 IP-CIDR,102.177.129.0/24,no-resolve
 IP-CIDR,102.177.130.0/24,no-resolve
@@ -5178,6 +5178,7 @@ IP-CIDR6,2a14:76c0::/29,no-resolve
 IP-CIDR6,2a14:7940::/29,no-resolve
 IP-CIDR6,2a14:7cc0::/29,no-resolve
 IP-CIDR6,2a14:8880::/29,no-resolve
+IP-CIDR6,2a14:a00::/29,no-resolve
 IP-CIDR6,2a14:b800::/29,no-resolve
 IP-CIDR6,2a14:b880::/29,no-resolve
 IP-CIDR6,2a14:bc00::/29,no-resolve

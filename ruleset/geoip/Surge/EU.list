@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: EU
 # 欧盟（European Union）
-# 数据日期: 2026-11-24
+# 数据日期: 2026-11-25
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1106 条（IPv4: 983 / IPv6: 123）
+# 规则统计: 共 1105 条（IPv4: 982 / IPv6: 123）
 # ============================================================
 IP-CIDR,103.141.68.0/23,no-resolve
 IP-CIDR,108.165.226.0/24,no-resolve
@@ -152,7 +152,6 @@ IP-CIDR,157.159.48.0/21,no-resolve
 IP-CIDR,157.159.56.0/21,no-resolve
 IP-CIDR,157.159.64.0/18,no-resolve
 IP-CIDR,158.41.32.0/21,no-resolve
-IP-CIDR,158.67.0.0/16,no-resolve
 IP-CIDR,159.190.0.0/16,no-resolve
 IP-CIDR,159.197.0.0/21,no-resolve
 IP-CIDR,159.197.100.0/24,no-resolve
